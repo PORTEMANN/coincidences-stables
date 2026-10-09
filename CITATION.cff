@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce travail, merci de le citer comme suit."
+title: "MCS — Machine à Coïncidences Stables : opérateur de verdict sur morphismes inter-domaines (pré-inscription scellée, jalon 3)"
+authors:
+  - family-names: Portemann
+    given-names: Patrice
+    website: https://histoire-des-sciences.eu
+date-released: 2026-10-09
+license: "MIT (code) / CC-BY-4.0 (textes)"
+repository-code: https://github.com/PORTEMANN/coincidences-stables
+notes: "Empreinte globale du scellement : 6f7d03433c055f30088e7863d361fd662c57b41f1aee4b3cd4743a65621168b1"
