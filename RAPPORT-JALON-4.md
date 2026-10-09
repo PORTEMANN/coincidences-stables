@@ -1,6 +1,6 @@
 # RAPPORT JALON 4 — Ouverture sur données réelles
 
-**Date** : 2026-10-09 — **Exécution unique par carte**, verdicts publiés quelle
+**Date** : 2026-10-09 — **Exécution unique par carte**, verdicts publiés quelle que
 soit l'issue. **Journal chaîné** : `journal/JALON-4-OUVERTURE.jsonl` (chaque
 record inclut le hash du précédent ; vérifié à chaque étape). **Chaînage** :
 le premier record lie la tête du scellement jalon 3
