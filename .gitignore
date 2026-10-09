@@ -1,3 +1,10 @@
+# Données brutes (sources publiques ; empreintes dans journal/ et donnees/MANIFESTE-ACQUISITION-MCS02.json)
+donnees/ame/
+donnees/jeff/
+donnees/eeg/*.fdt
+donnees/ecg/*.npy
+donnees/allen/*.nwb
+donnees/allen/*.npy
+donnees/cwru/*.mat
+donnees/cwru/*.npy
 __pycache__/
-*.pyc
-.DS_Store
