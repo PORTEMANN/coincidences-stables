@@ -1,0 +1,30 @@
+{
+  "acte": "GEL DES CARTES MCS v2 (jalon 3 v2, phase cartes)",
+  "horodatage_utc": "2026-10-10T18:31:16Z",
+  "convention": "sha256 calculee sur le contenu PRE-GEL (bloc a null) ; le bloc nul original est conserve ici pour verification octet par octet (meme convention que le jalon 3)",
+  "genese_journal": "GENESIS-MCS-V2-GEL-CARTES",
+  "chainon_precedent_scellement_v2": "745d7475bddc0ecbd92cfadd04f4bbaedea74d306911727a3e3dac84ef358c09",
+  "cartes": {
+    "cartes/v2/MCS-04-loi-harmonique.md": {
+      "sha256_pre_gel": "3cda0e155f11451263ee8ec1f7f1a9cd84c617e6a0e4eedc6a15b91b445b10b9",
+      "bloc_nul_original": "```\nSHA256_CARTE : null\nHORODATAGE   : null\n```"
+    },
+    "cartes/v2/MCS-05-agregation-EEG-F17.md": {
+      "sha256_pre_gel": "177b86c1af4cfa2f3af64f0dd012dac25b786d98c1f636f3a19712c1d8a892be",
+      "bloc_nul_original": "```\nSHA256_CARTE : null\nHORODATAGE   : null\n```"
+    },
+    "cartes/v2/MCS-06-loi-bifurcations.md": {
+      "sha256_pre_gel": "46f1c95083d8472b64779b6b7202a3fb15cc4c2ffb27737b1aba507657370ee8",
+      "bloc_nul_original": "```\nSHA256_CARTE : null\nHORODATAGE   : null\n```"
+    },
+    "cartes/v2/MCS-07-economie-information.md": {
+      "sha256_pre_gel": "426ee08b718e6d693a41d5718b4c251e1a00a4296ef645b6c4872b443e4be05f",
+      "bloc_nul_original": "```\nSHA256_CARTE : null\nHORODATAGE   : null\n```"
+    }
+  },
+  "demonstration_puissance": {
+    "validation/demonstrations_puissance_v2.py": "9fb47fb95ad25c7b6566832d6daa3ee2b6fdbf1d0356dcbfc7c2ba66eca78eda",
+    "validation/journal_puissance_v2.jsonl": "808cab8ff4257daeab03a2376cfd5a043a66bf4994296d5c087894009e3c7b26"
+  },
+  "tete_journal": "d53b0c23e8ee25feb8113fad9b06f6f5eb55512ebd819a6629295b8d0f1e0b68"
+}
