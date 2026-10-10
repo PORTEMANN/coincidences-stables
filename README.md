@@ -75,6 +75,7 @@ La v0.1 reste gelée ; MCS-01/02/03 restent fermées.
 
 ```
 manifeste/    MANIFESTE-MCS-v0.1.md (scellé) + MANIFESTE-MCS-v2.0.md (scellé)
+gouvernance/  documents de gouvernance théorique datés (INVARIANCE-EINSTEIN)
 cartes/       MCS-01, MCS-02, MCS-03 (scellées)
 code/         mcs_score.py (opérateur Σ, verdicts, journal chaîné)
               ash_invariants.py (pipeline ASH gelé)
