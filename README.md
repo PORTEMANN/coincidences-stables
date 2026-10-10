@@ -27,7 +27,7 @@ Verdicts : **CS+** (Σ ≥ seuil gelé) · **CSp** (2 ≤ Σ < seuil) · **CS−
 
 ## Statut : JALON 4 ACCOMPLI — les trois cartes ont été exécutées sur données réelles
 
-Verdicts publiés (exécution unique par carte, journal chaîné 18 records) :
+Verdicts publiés (exécution unique par carte, journal chaîné de 20 records) :
 
 | Carte | Verdict | Σ | Lecture |
 |-------|---------|---|---------|
@@ -46,7 +46,24 @@ Le présent dépôt, publié avant toute ouverture, sert d'horodatage externe :
 les cartes, les seuils et le code sont publiquement datés avant le premier
 chiffre réel. Voir `scellement/ACTE-DE-SCELLEMENT-J3.md`.
 
-## Cartes scellées
+## Moteur v2.0 (successeur, scellé)
+
+Le jalon 4 a appris deux leçons au moteur, publiées dans le journal :
+
+- **règle d'impuissance robuste au signe** : la puissance d'un contrôle est
+  |effet| en unités u_null ; la direction (conforme/inverse) est un diagnostic
+  publié séparément — la convention signée de la v0.1 déclarait aveugles des
+  bancs mesurant ±53 u et ±97 u (MCS-01/MCS-02) ;
+- **puissance démontrée avant gel** : toute carte jointe une preuve synthétique
+  de résolution de ses contrôles (leçon MCS-03, cécité structurelle).
+
+`manifeste/MANIFESTE-MCS-v2.0.md` · `code/mcs_score_v2.py` · validation
+synthétique 6/6 (dont la régression du jalon 4 sur chiffres enregistrés :
+le moteur v2 reproduit CSi, CSi, CS0) · `scellement/SCCELLEMENT-V2.json`
+(empreinte globale `d23216f5…`, chaîne liée à la tête du journal jalon 4).
+La v0.1 reste gelée ; MCS-01/02/03 restent fermées.
+
+## Cartes scellées (v0.1, closes au jalon 4)
 
 | Carte | Objet | Échelle | Attente honnête |
 |-------|-------|---------|------------------|
@@ -57,20 +74,23 @@ chiffre réel. Voir `scellement/ACTE-DE-SCELLEMENT-J3.md`.
 ## Structure
 
 ```
-manifeste/    MANIFESTE-MCS-v0.1.md (scellé)
+manifeste/    MANIFESTE-MCS-v0.1.md (scellé) + MANIFESTE-MCS-v2.0.md (scellé)
 cartes/       MCS-01, MCS-02, MCS-03 (scellées)
 code/         mcs_score.py (opérateur Σ, verdicts, journal chaîné)
               ash_invariants.py (pipeline ASH gelé)
               prng_chacha.py (ChaCha20-IETF, graine publique jalon 4)
               mcs01_runner.py, mcs02_runner.py, mcs03_runner.py (exécutions uniques)
               jalon4_acquisition_mcs02.py (tirage et acquisition publiés)
+              mcs_score_v2.py (moteur v2.0, scellé séparément)
 nulls/        surrogates.py (FT, IAAFT, permutation, familles de lois)
               positive_controls.py (sabotages, calibration)
 validation/   validation_synthetique.py (5 scénarios à vérité connue)
+              validation_synthetique_v2.py (v2 : 6/6, régression jalon 4)
               verifier_scellement.py (revérification indépendante du gel)
               rapport_synthetique.md, journal_synthetique.jsonl
 scellement/   geler_jalon3.py, SCCELLEMENT-J3.json, ACTE, journal chaîné
-journal/      JALON-4-OUVERTURE.jsonl (18 records chaînés)
+              + geler_v2.py, SCCELLEMENT-V2.json, ACTE-DE-SCELLEMENT-V2.md
+journal/      JALON-4-OUVERTURE.jsonl (20 records chaînés)
 resultats/    mcs01/mcs02/mcs03_resultats.json (verdicts et mesures complets)
 donnees/      manifestes et métadonnées (les brutes ~700 Mo restent chez les
               sources publiques ; leurs empreintes sont au journal)

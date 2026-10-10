@@ -1,0 +1,22 @@
+{
+  "acte": "SCCELLEMENT MCS — moteur v2.0 (jalon 3 v2)",
+  "horodatage_utc": "2026-10-10T06:17:08Z",
+  "convention": "sha256 calculee sur le contenu PRE-GEL (bloc a null) ; le bloc nul original est conserve ici pour verification octet par octet (meme convention que le jalon 3)",
+  "genese_journal": "GENESIS-MCS-V2-SCELLEMENT",
+  "chainon_precedent_jalon4": "9171759e5a344576179b2b7dac8772837ec5a9a8611344a88749a9836918ffcd",
+  "fichiers": {
+    "manifeste/MANIFESTE-MCS-v2.0.md": {
+      "sha256_pre_gel": "a9eb7c44ce7a61063328ba627161161df9d81ee53ce5987c899c188e12098660",
+      "bloc_nul_original": "```\nSHA256_MANIFESTE : null\nSHA256_CODE_V2   : null\nCHAINE_JOURNAL   : null\nHORODATAGE       : null\n```"
+    }
+  },
+  "code": {
+    "code/mcs_score_v2.py": "f1c89c541e61073c7b1f15a99c6d275bcb338088d7c657e22d68b45d998c09bb",
+    "validation/validation_synthetique_v2.py": "f42720433abceeaa7e515d01c71ccde32659ba08e1954abeced63f63ce6176a3",
+    "validation/journal_synthetique_v2.jsonl": "e65c3d03a6c88bebefee9369a1dcfd4477677e092553c87c5ce0d433c8cff2ce"
+  },
+  "sha256_paquet_code": "f762bc361fa87ef3115d271cf935101c48c6bf339d68013eccdff39eec338fa6",
+  "chaine_journal_tete": "745d7475bddc0ecbd92cfadd04f4bbaedea74d306911727a3e3dac84ef358c09",
+  "empreinte_globale": "d23216f5cc433486162e12e015baf380f8a34adb41130a42bd8d8d214771f000",
+  "statut": "GELE — moteur v2.0 ; aucune carte v2 n'existe encore"
+}
