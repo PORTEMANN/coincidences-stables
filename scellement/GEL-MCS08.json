@@ -1,0 +1,15 @@
+{
+  "acte": "GEL DE LA CARTE MCS-08 (jalon 3 v2)",
+  "horodatage_utc": "2026-10-10T20:25:35Z",
+  "convention": "sha256 sur le contenu PRE-GEL (bloc a null) ; bloc nul conserve ici pour verification octet par octet",
+  "genese_journal": "GENESIS-MCS-V2-GEL-MCS08",
+  "chainon_precedent_gel_cartes": "d53b0c23e8ee25feb8113fad9b06f6f5eb55512ebd819a6629295b8d0f1e0b68",
+  "carte": "cartes/v2/MCS-08-benford-codata.md",
+  "sha256_pre_gel": "ed656aa4e013bc7af8f1238314c4308cda70e4b226b9bae93f67ae485562d795",
+  "bloc_nul_original": "```\nSHA256_CARTE : null\nHORODATAGE   : null\n```",
+  "demonstration_puissance": {
+    "validation/demonstration_puissance_mcs08.py": "2a7f32a57ca5915e338b68b0840dee211e2dee37e2f114a64d58cb57e2b32f50",
+    "validation/journal_puissance_mcs08.jsonl": "2b2641fe96b4c36671cf873bfee4ec18f6ceaab0f90c065dd9325f295fe89294"
+  },
+  "tete_journal": "5f872a42d5c87b79e89aee781344f91d077a5995d347668883fb2212fba3b75a"
+}
