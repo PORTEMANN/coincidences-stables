@@ -1,0 +1,69 @@
+{
+  "carte": "MCS-08",
+  "empreinte_carte_pre_gel": "ed656aa4e013bc7af8f1238314c4308cda70e4b226b9bae93f67ae485562d795",
+  "empreintes_donnees": {
+    "allascii_2022.txt": "77fb90e66c40db3e6eb16630bc9c88e4c7c8beddbe5e71be406f2f26e3f67e67",
+    "allascii_2018.txt": "8c47c05db62c4d314a5244db51a47b4831616e55a8d357ced373a8620ff43be1"
+  },
+  "empreinte_donnees_combinee": "6c6a96b400fbc6fae732f367303864ee74b99c2eb8a000806b935a3287148108",
+  "n_entrees_2022": 355,
+  "n_exactes_2022": 81,
+  "n_entrees_2018": 354,
+  "p_obs_canonique": {
+    "1": 0.35492957746478876,
+    "2": 0.18309859154929578,
+    "3": 0.09014084507042254,
+    "4": 0.08169014084507042,
+    "5": 0.08450704225352113,
+    "6": 0.07042253521126761,
+    "7": 0.030985915492957747,
+    "8": 0.05070422535211268,
+    "9": 0.05352112676056338
+  },
+  "m_canonique": -0.15494418456172204,
+  "z_par_g": {
+    "g0_canonique": 8.255790158348427,
+    "g1_codata2018": 8.36944031689367,
+    "g2_sans_exactes": 7.440653619993038,
+    "g3_echelle_eV": 7.608804620733073,
+    "g4_base12": 10.93375648924251,
+    "g5_rangs_pairs": 5.238252882405908,
+    "g6_retrait_311": 8.294548329350802
+  },
+  "controles": {
+    "c1": 8.410343543277456,
+    "c2": 7.3218676786282915
+  },
+  "verdict": {
+    "verdict": "CS+",
+    "sigma": 5.238253,
+    "seuil": 3.0,
+    "motif": "coincidence stable : survit a toutes les deformations",
+    "z_par_g": {
+      "g0_canonique": 8.25579,
+      "g1_codata2018": 8.36944,
+      "g2_sans_exactes": 7.440654,
+      "g3_echelle_eV": 7.608805,
+      "g4_base12": 10.933756,
+      "g5_rangs_pairs": 5.238253,
+      "g6_retrait_311": 8.294548
+    },
+    "controles": {
+      "c1": 8.410344,
+      "c2": 7.321868
+    },
+    "puissances_controles": {
+      "c1": 8.410344,
+      "c2": 7.321868
+    },
+    "directions_controles": {
+      "c1": "conforme",
+      "c2": "conforme"
+    }
+  },
+  "decisions_execution": [
+    "g2 : critere mecanique = mention '(exact)' de la table",
+    "g3 : facteur exact J->eV applique a toutes les valeurs",
+    "g5 : rangs pairs dans l'ordre de la table"
+  ]
+}
