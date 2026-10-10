@@ -1,0 +1,260 @@
+{
+  "provenance": {
+    "corpus": "PORTEMANN/noetic-machine-complete — bifurcations/ (Loi_des_Bifurcations.md sha 413eda46, phe_verdict d20307de, pcrcu_verdict a280708d, plalr_verdict)",
+    "D_corpus": "D cites tels que publies dans la table de la Loi (He 1,0 ; CrCu-3d 1,0 ; CrCu-4d 0,2 ; CrCu-5d 0,2 ; LaLr 0,4)",
+    "D_nouvelles": "batterie figee de 5 predictions derivees zero-parametre par question ; D = fraction confirmee par les faits mesures ; justifications par test ci-dessous"
+  },
+  "regle_type": "PHYSIQUE = instabilite de configuration (quelle configuration/propriete la nature adopte) ; CONVENTIONNEL = choix de frontiere de classement",
+  "bifurcations": [
+    {
+      "id": "P-He",
+      "type": "physique",
+      "Z": 2,
+      "D": 1.0,
+      "source": "corpus (phe_verdict)",
+      "batterie": null
+    },
+    {
+      "id": "P-CrCu-3d",
+      "type": "physique",
+      "Z": 24,
+      "D": 1.0,
+      "source": "corpus (pcrcu_verdict)",
+      "batterie": null
+    },
+    {
+      "id": "P-CrCu-4d",
+      "type": "physique",
+      "Z": 42,
+      "D": 0.2,
+      "source": "corpus (pcrcu_verdict)",
+      "batterie": null
+    },
+    {
+      "id": "P-CrCu-5d",
+      "type": "physique",
+      "Z": 79,
+      "D": 0.2,
+      "source": "corpus (pcrcu_verdict)",
+      "batterie": null
+    },
+    {
+      "id": "P-N-tete15",
+      "type": "physique",
+      "Z": 7,
+      "D": 1.0,
+      "source": "execution",
+      "batterie": [
+        "N2 triple liaison moleculaire : confirme",
+        "pas d'octet etendu (NCl3 max, pas de NF5 stable) : confirme",
+        "NH3 a liaisons H, distinct de PH3 : confirme",
+        "allotropie moleculaire vs P4 tetraedrique : confirme",
+        "configuration 2s2 2p3 comme derivee : confirme"
+      ]
+    },
+    {
+      "id": "P-O-tete16",
+      "type": "physique",
+      "Z": 8,
+      "D": 1.0,
+      "source": "execution",
+      "batterie": [
+        "O2 double liaison : confirme",
+        "H2O liquide a liaisons H vs H2S gaz : confirme",
+        "pas d'octet etendu (SF6 existe, pas OF6) : confirme",
+        "electronegativite maximale du groupe : confirme",
+        "configuration 2s2 2p4 comme derivee : confirme"
+      ]
+    },
+    {
+      "id": "P-Ne-inertie",
+      "type": "physique",
+      "Z": 10,
+      "D": 1.0,
+      "source": "execution",
+      "batterie": [
+        "IE1 maximale de la periode : confirme",
+        "aucun compose stable mesure : confirme",
+        "gaz monoatomique : confirme",
+        "polarisabilite minimale : confirme",
+        "configuration 2p6 pleine comme derivee : confirme"
+      ]
+    },
+    {
+      "id": "P-Si-covalence",
+      "type": "physique",
+      "Z": 14,
+      "D": 1.0,
+      "source": "execution",
+      "batterie": [
+        "configuration 3s2 3p2 comme derivee : confirme",
+        "structure diamant covalente : confirme",
+        "SiO2 acide : confirme",
+        "silanes covalents : confirme",
+        "semi-conducteur, pas metal : confirme"
+      ]
+    },
+    {
+      "id": "P-Ge-covalence",
+      "type": "physique",
+      "Z": 32,
+      "D": 1.0,
+      "source": "execution",
+      "batterie": [
+        "configuration 4s2 4p2 comme derivee : confirme",
+        "structure diamant covalente : confirme",
+        "GeO2 acide : confirme",
+        "germanes covalents : confirme",
+        "semi-conducteur, pas metal : confirme"
+      ]
+    },
+    {
+      "id": "P-La-tete-f",
+      "type": "physique",
+      "Z": 57,
+      "D": 0.4,
+      "source": "execution",
+      "batterie": [
+        "Madelung predit La 4f1 : infirme (5d1 6s2 mesure)",
+        "Madelung predit Ce 4f2 : infirme (4f1 5d1 6s2)",
+        "Madelung predit Pr 4f3 : confirme",
+        "Madelung predit Nd 4f4 : confirme",
+        "Madelung predit Gd 4f8 : infirme (4f7 5d1)"
+      ]
+    },
+    {
+      "id": "P-Hg-homologue",
+      "type": "physique",
+      "Z": 80,
+      "D": 0.2,
+      "source": "execution",
+      "batterie": [
+        "configuration 5d10 6s2 comme derivee : confirme",
+        "solide comme Zn/Cd : infirme (liquide, relativite)",
+        "+2 unique comme Zn/Cd : infirme (Hg2(2+) existe)",
+        "HgO stable comme ZnO : infirme (se decompose)",
+        "HgCl2 ionique comme ZnCl2 : infirme (moleculaire)"
+      ]
+    },
+    {
+      "id": "P-Au-homologue",
+      "type": "physique",
+      "Z": 79,
+      "D": 0.2,
+      "source": "execution",
+      "batterie": [
+        "configuration 5d10 6s1 comme derivee : confirme",
+        "+1 dominant comme Cu/Ag : infirme (+3 comparable)",
+        "nobilite comme Ag : infirme (nobilite extreme, aqua regia)",
+        "anion Au- inexistant : infirme (CsAu existe)",
+        "couleur blanche attendue : infirme (jaune, relativiste)"
+      ]
+    },
+    {
+      "id": "P-Pb-paire-inerte",
+      "type": "physique",
+      "Z": 82,
+      "D": 0.4,
+      "source": "execution",
+      "batterie": [
+        "configuration 6s2 6p2 comme derivee : confirme",
+        "+4 dominant comme Sn : infirme (+2 dominant)",
+        "PbO2 stable comme SnO2 : infirme (oxydant fort)",
+        "PbS2 existe comme SnS2 : infirme",
+        "Pb(IV) organometallique stable (PbEt4) : confirme"
+      ]
+    },
+    {
+      "id": "P-U-tete-actinide",
+      "type": "physique",
+      "Z": 92,
+      "D": 0.0,
+      "source": "execution",
+      "batterie": [
+        "Madelung predit Ac 5f1 : infirme (6d1 7s2)",
+        "Madelung predit Th 5f2 : infirme (6d2 7s2)",
+        "Madelung predit Pa 5f3 : infirme (5f2 6d1 7s2)",
+        "Madelung predit U 5f4 : infirme (5f3 6d1 7s2)",
+        "Madelung predit Np 5f5 : infirme (5f4 6d1 7s2)"
+      ]
+    },
+    {
+      "id": "C-LaLr",
+      "type": "conventionnel",
+      "Z": 57,
+      "D": 0.4,
+      "source": "corpus (plalr_verdict)",
+      "batterie": null
+    },
+    {
+      "id": "C-H-placement",
+      "type": "conventionnel",
+      "Z": 1,
+      "D": 0.4,
+      "source": "execution",
+      "batterie": [
+        "s1 comme les alcalins : penche alcalin",
+        "IE1 elevee (1312 kJ/mol) : penche halogene",
+        "affinite electronique positive (H- existe) : penche halogene",
+        "H+ aqueux comme Na+ : penche alcalin",
+        "molecule diatomique comme Cl2 : penche halogene"
+      ]
+    },
+    {
+      "id": "C-ligne-metalloide",
+      "type": "conventionnel",
+      "Z": 5,
+      "D": 0.4,
+      "source": "execution",
+      "batterie": [
+        "B semi/ isolant, pas conducteur metallique : penche non-metal",
+        "B2O3 acide : penche non-metal",
+        "aspect et durete cristallins metalloides : intermediaire",
+        "hydrures covalents : penche non-metal",
+        "la ligne metal/non-metal elle-meme est un choix de classement : libre"
+      ]
+    },
+    {
+      "id": "C-Zn-transition",
+      "type": "conventionnel",
+      "Z": 30,
+      "D": 0.8,
+      "source": "execution",
+      "batterie": [
+        "configuration d10 s2 (jamais d partiellement rempli) : penche non-transition",
+        "etat d'oxydation unique +2 : penche non-transition",
+        "composes incolores : penche non-transition",
+        "points de fusion bas, hors tendance d : penche non-transition",
+        "la definition meme de 'metal de transition' est une convention IUPAC : question de classement"
+      ]
+    },
+    {
+      "id": "C-Po-metal",
+      "type": "conventionnel",
+      "Z": 84,
+      "D": 0.6,
+      "source": "execution",
+      "batterie": [
+        "conducteur metallique : penche metal",
+        "PoO2 amphotere : intermediaire",
+        "halogenures covalents volatils : penche non-metal",
+        "donnees rares (radioactivite) : mesure limitee",
+        "hydrure PoH2 marginal : intermediaire"
+      ]
+    },
+    {
+      "id": "C-At-halogene",
+      "type": "conventionnel",
+      "Z": 85,
+      "D": 0.4,
+      "source": "execution",
+      "batterie": [
+        "At metallique en couches minces : penche metal",
+        "At- existe en solution : penche halogene",
+        "donnees tres rares (quantites picomolaires) : mesure limitee",
+        "volatilite moleculaire At2 : penche halogene",
+        "placement metal/non-metal debattu : libre"
+      ]
+    }
+  ]
+}

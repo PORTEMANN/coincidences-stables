@@ -1,0 +1,73 @@
+{
+  "carte": "MCS-04",
+  "empreinte_carte_pre_gel": "3cda0e155f11451263ee8ec1f7f1a9cd84c617e6a0e4eedc6a15b91b445b10b9",
+  "empreintes_donnees": {
+    "mass_width_2024.mcd": "12136f946df7860ef81f4e37d8314fe6ce3ae0b6bb77266994e56e4cf61e20d9",
+    "mass_width_2022.mcd": "f99e43f1fc2855501fc06ff105eb0f60a6e8300409750ab9c455ebe2a5847435",
+    "combinee": "0c2aaf3c0360baab5e944dbccb4a3387edcec9acee1486e373d65c34f95e761f"
+  },
+  "zoo_2024_GeV": {
+    "e": 0.00051099895,
+    "mu": 0.1056583755,
+    "tau": 1.77693,
+    "u": 0.00216,
+    "d": 0.0047,
+    "s": 0.0935,
+    "c": 1.273,
+    "b": 4.183,
+    "t": 172.57,
+    "W": 80.369,
+    "Z": 91.188,
+    "H": 125.2,
+    "p": 0.93827208816,
+    "n": 0.9395654205
+  },
+  "m_canonique": 0.732201460818276,
+  "mu_n1": 0.5835146665726915,
+  "u_n1": 0.06509578149924333,
+  "z_par_g": {
+    "g0_canonique": 2.2841233459546504,
+    "g1_ancre_m_e": 0.7465585407802555,
+    "g2_sans_quarks": 1.9837974376617726,
+    "g3_pdg2022": 2.1303271076614068,
+    "g4_sans_bosons": 2.0460532006437755,
+    "g5_pas_reseau_min": -0.43421487845135787,
+    "g6_retrait_u": 2.145808394170704
+  },
+  "controles": {
+    "c1": 4.450880614135878,
+    "c2": 2.1459455698810994
+  },
+  "verdict_moteur_seuil_3.0": {
+    "verdict": "CS-",
+    "sigma": -0.434215,
+    "seuil": 3.0,
+    "motif": "artefact probable ; publication B3-FAIL",
+    "z_par_g": {
+      "g0_canonique": 2.284123,
+      "g1_ancre_m_e": 0.746559,
+      "g2_sans_quarks": 1.983797,
+      "g3_pdg2022": 2.130327,
+      "g4_sans_bosons": 2.046053,
+      "g5_pas_reseau_min": -0.434215,
+      "g6_retrait_u": 2.145808
+    },
+    "controles": {
+      "c1": 4.450881,
+      "c2": 2.145946
+    },
+    "puissances_controles": {
+      "c1": 4.450881,
+      "c2": 2.145946
+    },
+    "directions_controles": {
+      "c1": "conforme",
+      "c2": "conforme"
+    }
+  },
+  "verdict_carte_seuil_3.1": "CS-",
+  "decisions_execution": [
+    "g3 : intersection des editions 2024/2022 (10 particules, quarks legers absents de la table 2022)",
+    "g5 : z = min des deux pas delta' (maillon le plus faible)"
+  ]
+}

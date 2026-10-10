@@ -1,0 +1,128 @@
+{
+  "provenance": {
+    "m1": {
+      "repo": "PORTEMANN/noetic-machine-complete",
+      "path": "data/m1_economie_information_verdict.json",
+      "github_blob_sha1": "7da6e8d3cf4ff345ac18ddf45b445e33cdbc3e26"
+    },
+    "m1b": {
+      "repo": "PORTEMANN/noetic-machine-complete",
+      "path": "data/m1b_economie_robustesse_verdict.json",
+      "github_blob_sha1": "ff019fe728a9c818193f187a7fecab51a5d31371"
+    },
+    "groupe_frontiere_declare_M1": [
+      "P31",
+      "P32",
+      "P33",
+      "P39"
+    ],
+    "restriction_tau_declaree_M1": "corpus P20-P33 (succes non nuls)"
+  },
+  "chantiers": [
+    {
+      "id": "P20",
+      "V2": 5,
+      "succes": 5,
+      "S_gzip": 2357,
+      "rho1": 0.07894736842105263
+    },
+    {
+      "id": "P21",
+      "V2": 7,
+      "succes": 7,
+      "S_gzip": 2937,
+      "rho1": 0.9296875
+    },
+    {
+      "id": "P22",
+      "V2": 6,
+      "succes": 5,
+      "S_gzip": 2868,
+      "rho1": 0.8363636363636363
+    },
+    {
+      "id": "P23",
+      "V2": 6,
+      "succes": 6,
+      "S_gzip": 2098,
+      "rho1": 0.7738095238095238
+    },
+    {
+      "id": "P24",
+      "V2": 6,
+      "succes": 6,
+      "S_gzip": 3158,
+      "rho1": 0.3113207547169811
+    },
+    {
+      "id": "P25",
+      "V2": 6,
+      "succes": 6,
+      "S_gzip": 4239,
+      "rho1": 0.20555555555555555
+    },
+    {
+      "id": "P26",
+      "V2": 5,
+      "succes": 4,
+      "S_gzip": 3579,
+      "rho1": 0.46794871794871795
+    },
+    {
+      "id": "P27",
+      "V2": 5,
+      "succes": 5,
+      "S_gzip": 3211,
+      "rho1": 0.15028901734104047
+    },
+    {
+      "id": "P28",
+      "V2": 7,
+      "succes": 7,
+      "S_gzip": 4281,
+      "rho1": null
+    },
+    {
+      "id": "P29",
+      "V2": 6,
+      "succes": 5,
+      "S_gzip": 3371,
+      "rho1": 0.22916666666666666
+    },
+    {
+      "id": "P30",
+      "V2": 5,
+      "succes": 3,
+      "S_gzip": 2556,
+      "rho1": 0.2571428571428571
+    },
+    {
+      "id": "P31",
+      "V2": 5,
+      "succes": 3,
+      "S_gzip": 3794,
+      "rho1": 0.47674418604651164
+    },
+    {
+      "id": "P32",
+      "V2": 5,
+      "succes": 4,
+      "S_gzip": 1029,
+      "rho1": 1.0
+    },
+    {
+      "id": "P33",
+      "V2": 5,
+      "succes": 3,
+      "S_gzip": 987,
+      "rho1": 1.096774193548387
+    }
+  ],
+  "delta_binaire": {
+    "P31": 1,
+    "P32": 1,
+    "P33": 1
+  },
+  "delta_trois_niveaux_regle": "proche=2 si dans le groupe frontiere M1 restreint au corpus tau ; moyen=1 si rho1 >= Q3_NF (0,32247557003257327, publie M1) hors frontiere ; lointain=0 sinon",
+  "Q3_NF_rho1_M1": 0.32247557003257327
+}

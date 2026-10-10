@@ -1,0 +1,56 @@
+{
+  "carte": "MCS-06",
+  "empreinte_carte_pre_gel": "46f1c95083d8472b64779b6b7202a3fb15cc4c2ffb27737b1aba507657370ee8",
+  "empreinte_donnees": "0e7cb619df9b8a208b922cec8d5889ab7ef5a565d85eb0fab8da2d484da2132f",
+  "m_canonique": 0.8529807642640898,
+  "mu_n1": 0.6013566658676092,
+  "u_n1": 0.10772358678422868,
+  "z_par_g": {
+    "g0_canonique": 2.3358310459944667,
+    "g1_Z_relativiste_INERTE": 2.370583563516546,
+    "g2_sans_corpus": 2.2358415186840133,
+    "g3_sans_He": 2.3287898647276077,
+    "g4_seuil_rho_INERTE": 2.3358310459944667,
+    "g5_batterie_3_tests": 2.100422857349168,
+    "g6_types_permutés": 0.9041735485623726
+  },
+  "controles": {
+    "c1": 7.90562857979291,
+    "c2": 12.55195204384768
+  },
+  "c3_rho_conv_abs": 0.13522468075656266,
+  "verdict_moteur_seuil_3.0": {
+    "verdict": "CS-",
+    "sigma": 0.904174,
+    "seuil": 3.0,
+    "motif": "artefact probable ; publication B3-FAIL",
+    "z_par_g": {
+      "g0_canonique": 2.335831,
+      "g1_Z_relativiste_INERTE": 2.370584,
+      "g2_sans_corpus": 2.235842,
+      "g3_sans_He": 2.32879,
+      "g4_seuil_rho_INERTE": 2.335831,
+      "g5_batterie_3_tests": 2.100423,
+      "g6_types_permutés": 0.904174
+    },
+    "controles": {
+      "c1": 7.905629,
+      "c2": 12.551952
+    },
+    "puissances_controles": {
+      "c1": 7.905629,
+      "c2": 12.551952
+    },
+    "directions_controles": {
+      "c1": "conforme",
+      "c2": "conforme"
+    }
+  },
+  "verdict_carte_seuil_3.1": "CS-",
+  "decisions_execution": [
+    "g1 inerte (Spearman invariant monotone), rapportee",
+    "g2 : 15 nouvelles seules (parenthese '7' = reste de redaction)",
+    "g4 inerte (pas de seuil dans m continu), rapportee",
+    "g6 : tirage du nul N1 inclus dans Sigma par la carte scellee"
+  ]
+}

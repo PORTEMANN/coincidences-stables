@@ -1,0 +1,55 @@
+{
+  "carte": "MCS-07",
+  "empreinte_carte_pre_gel": "426ee08b718e6d693a41d5718b4c251e1a00a4296ef645b6c4872b443e4be05f",
+  "empreinte_donnees": "bb14818568ea4d490a4c87575dc688b8703c7df7635502952756e10888cf623f",
+  "cle_prng_publique": "fbaf9ed0b3f96c6f1d913c6cca0e7f20e3567bfb4cc465db2b79ff7fad3202ba",
+  "m_canonique": 0.6505097439544784,
+  "mu_n1": -0.0037032590423694274,
+  "u_n1": 0.27539586484152173,
+  "z_par_g": {
+    "g0_canonique": 2.3755367691280287,
+    "g1_denominateur": 2.21890075837178,
+    "g2_metrique_taille_INERTE": 2.3755367691280287,
+    "g3_retrait_frontiere": 0.5475464568258789,
+    "g4_delta_3_niveaux": 2.0102951273316894,
+    "g5_kendall": 2.343325610775538,
+    "g6_retrait_P32": 2.152902624850446
+  },
+  "controles": {
+    "c1": 2.406378912170608,
+    "c2": 4.72417945947604
+  },
+  "verdict_moteur_seuil_3.0": {
+    "verdict": "CS-",
+    "sigma": 0.547546,
+    "seuil": 3.0,
+    "motif": "artefact probable ; publication B3-FAIL",
+    "z_par_g": {
+      "g0_canonique": 2.375537,
+      "g1_denominateur": 2.218901,
+      "g2_metrique_taille_INERTE": 2.375537,
+      "g3_retrait_frontiere": 0.547546,
+      "g4_delta_3_niveaux": 2.010295,
+      "g5_kendall": 2.343326,
+      "g6_retrait_P32": 2.152903
+    },
+    "controles": {
+      "c1": 2.406379,
+      "c2": 4.724179
+    },
+    "puissances_controles": {
+      "c1": 2.406379,
+      "c2": 4.724179
+    },
+    "directions_controles": {
+      "c1": "conforme",
+      "c2": "conforme"
+    }
+  },
+  "verdict_carte_seuil_3.1": "CS-",
+  "decisions_execution": [
+    "g1 : tau' = succes/(V2+1)",
+    "g2 : deformation inerte sur la mesure scellee, rapportee",
+    "g3 : delta trois niveaux (delta binaire degenere apres retrait)"
+  ]
+}
