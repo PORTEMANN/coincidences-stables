@@ -7,4 +7,5 @@ donnees/allen/*.nwb
 donnees/allen/*.npy
 donnees/cwru/*.mat
 donnees/cwru/*.npy
+gouvernance/*.pdf
 __pycache__/
