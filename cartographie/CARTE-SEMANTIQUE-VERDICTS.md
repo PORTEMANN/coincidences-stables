@@ -5,7 +5,7 @@ moteur figé) + campagne v2.0 (jalons 1–4 v2 : MCS-04 à 07) + carte de
 calibration MCS-08 (Benford × CODATA, CS+) + MCS-09 (Titius-Bode, CSp) +
 jalon 5 : MCS-10 (RAR × SPARC, CS+) + MCS-11 (Koide × leptons, CS+) +
 MCS-12 (BBN × éléments légers, CSp) + MCS-13 (résonances orbitales ×
-Exoplanet Archive, CS+) +
+Exoplanet Archive, CS+) + MCS-14 (loi de rang × groupes d'espace, CSi) +
 verdicts du corpus mobilisés par les cartes (mvcg, M1/M1b, bifurcations,
 EEG P44/P47/P51).
 
@@ -55,6 +55,11 @@ fermeture (ou de suspension) la réalité a choisi.
    regroupement sur rapports rationnels :
    MCS-13 : CS+ — résonances orbitales × systèmes multiples (Σ = 5,46) —
    stable ; l'excès au large mesuré (67 %, médiane +2,6 %)
+
+   loi de rang figée :
+   MCS-14 : CSi — Zipf(α=1) × 230 groupes d'espace (Σ = −14,0) —
+   concentration réelle mais plus raide que la loi déclarée (α ≈ 1,8) ;
+   la forme figée est anti-stable
 ```
 
 ## 2. Les cinq modes de fermeture (la lecture sémantique)
@@ -65,9 +70,15 @@ fermeture (ou de suspension) la réalité a choisi.
 - **MCS-02** (invariants ASH × signaux EEG/ECG/cellules/roulements) :
   Σ = −25,10. Les invariants structurels séparent *moins bien* que des
   surrogates de même spectre.
+- **MCS-14** (loi de rang figée Zipf α = 1 × 230 groupes d'espace, COD) :
+  Σ = −14,0. La concentration est réelle (tête : 160 629 structures dans le
+  groupe 14) mais **plus raide que la loi déclarée** (α ajusté ≈ 1,8) — sous
+  la mesure scellée, la forme figée fait pire que des partitions uniformes,
+  partout. Le contrôle c2 le signe : α = 2 *améliore* (contrôle vivant,
+  direction inverse, publiée).
 
 *Signification* : ces correspondances ne sont pas seulement absentes — elles
-sont **anti-stables**. Le monde, dans ces deux domaines, se range du côté
+sont **anti-stables**. Le monde, dans ces trois domaines, se range du côté
 opposé à la loi proposée. C'est le verdict le plus fort que la machine rende.
 
 ### B. Forme réelle mais non spécifique (CS−) — mieux que le hasard, pas au pas près
@@ -196,7 +207,7 @@ une tension par élément qui reste un problème ouvert.
 
 ## 4. Ce que la carte dit du monde
 
-1. **Sur 13 cartes** : 2 inversions (CSi), 3 fermetures (CS−), 2 suspensions
+1. **Sur 14 cartes** : **3 inversions** (CSi), 3 fermetures (CS−), 2 suspensions
    (CS0), 2 cartes endormies (CSp), **4 confirmations (CS+)** : un étalon
    (Benford), une régularité contemporaine avec caveat mesuré (RAR), une
    exception rationnelle inexpliquée (Koide), un regroupement de population
@@ -219,7 +230,7 @@ une tension par élément qui reste un problème ouvert.
 ---
 
 *Carte rédigée après clôture du jalon 4 v2, mise à jour après MCS-08, MCS-09
-(erratum publié), MCS-10, MCS-11, MCS-12 (jalon 5) et MCS-13 (registre).
-Toute carte future (MCS-14+) ajoutera un point à cette carte, jamais ne
-révisera un point existant — les fermetures sont définitives, les
+(erratum publié), MCS-10, MCS-11, MCS-12 (jalon 5), MCS-13 et MCS-14
+(registre). Toute carte future (MCS-15+) ajoutera un point à cette carte,
+jamais ne révisera un point existant — les fermetures sont définitives, les
 suspensions attendent leur refonte unique.*
