@@ -79,8 +79,7 @@ def masses_pdg(chemin):
 
 def alpha_codata(chemin):
     for ln in open(chemin, encoding="latin-1"):
-        if ln.startswith("fine-structure constant ") or \
-           ln.startswith("fine-structure constant\t"):
+        if ln.startswith("fine-structure constant ") or            ln.startswith("fine-structure constant	"):
             m = VAL_RE.match(ln)
             return float(m.group(2).replace("...", "").replace(" ", ""))
     for ln in open(chemin, encoding="latin-1"):
