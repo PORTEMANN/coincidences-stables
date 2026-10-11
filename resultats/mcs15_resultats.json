@@ -1,0 +1,144 @@
+{
+  "carte": "MCS-15",
+  "empreinte_carte_pre_gel": "8a718192f90de4f1072bb1e89e8e02934d34a3bd3f8e5d224a319d725c809f85",
+  "empreintes_fichiers": {
+    "gutenberg_17489.txt": "74aee69b32de0f7a3a21faac3d6e57e7b9c5ddc4ea17842507ff23a3e754a99f",
+    "gutenberg_17493.txt": "45db5770fd6445dcdcb4c649888feff136d9df337edb3a14324fafc11253be6c",
+    "gutenberg_98.txt": "b562d36b1a2573cbac44fd5ab71d061299eeea818865d9e5b04d143662fc2693"
+  },
+  "empreinte_donnees": "374c79a82bc210c03123401f29317f32fd3233aefd16d607470648b6e44975a7",
+  "m_par_config": {
+    "g0_canonique_HORS_SIGMA": 1.2438989904172788
+  },
+  "z_par_g": {
+    "g0_canonique_HORS_SIGMA": 1081.9496968351805,
+    "g1_tome_II": 992.6400605515453,
+    "g2_dickens_anglais": 666.6939822576261,
+    "g3_sans_top10": 880.8832571545179,
+    "g4_fenetre_1000": 207.40876828363832,
+    "g5_alpha_1.1": 1123.015537436118,
+    "g6_casse_non_rabattue": 1121.253990939529
+  },
+  "controles": {
+    "c1": 1278.075823489454,
+    "c2": 1088.6646290683234
+  },
+  "diagnostics": {
+    "alpha_tome_I": 1.0162818523286516,
+    "alpha_tome_II": 1.0171086199207158,
+    "alpha_dickens": 1.137663849688838,
+    "vocabulaire_tome_I": 10139,
+    "tokens_tome_I": 79684,
+    "top20": [
+      [
+        "de",
+        3174
+      ],
+      [
+        "la",
+        2013
+      ],
+      [
+        "et",
+        2008
+      ],
+      [
+        "il",
+        1913
+      ],
+      [
+        "l",
+        1704
+      ],
+      [
+        "le",
+        1662
+      ],
+      [
+        "à",
+        1542
+      ],
+      [
+        "un",
+        1246
+      ],
+      [
+        "les",
+        1145
+      ],
+      [
+        "une",
+        931
+      ],
+      [
+        "d",
+        900
+      ],
+      [
+        "qui",
+        848
+      ],
+      [
+        "en",
+        845
+      ],
+      [
+        "que",
+        819
+      ],
+      [
+        "dans",
+        784
+      ],
+      [
+        "qu",
+        756
+      ],
+      [
+        "était",
+        748
+      ],
+      [
+        "est",
+        702
+      ],
+      [
+        "des",
+        689
+      ],
+      [
+        "ce",
+        647
+      ]
+    ]
+  },
+  "verdict_moteur_seuil_3.0": {
+    "verdict": "CS+",
+    "sigma": 207.408768,
+    "seuil": 3.0,
+    "motif": "coincidence stable : survit a toutes les deformations",
+    "z_par_g": {
+      "g0_canonique_HORS_SIGMA": 1081.949697,
+      "g1_tome_II": 992.640061,
+      "g2_dickens_anglais": 666.693982,
+      "g3_sans_top10": 880.883257,
+      "g4_fenetre_1000": 207.408768,
+      "g5_alpha_1.1": 1123.015537,
+      "g6_casse_non_rabattue": 1121.253991
+    },
+    "controles": {
+      "c1": 1278.075823,
+      "c2": 1088.664629
+    },
+    "puissances_controles": {
+      "c1": 1278.075823,
+      "c2": 1088.664629
+    },
+    "directions_controles": {
+      "c1": "conforme",
+      "c2": "conforme"
+    }
+  },
+  "verdict_carte_seuil_3.0": "CS+",
+  "deviation_declaree": "#135 et #2610 de la carte sont des traductions anglaises ; substitution par les originaux français Tome I (#17489) et Tome II (#17493), verifies au contenu"
+}
