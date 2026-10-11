@@ -78,7 +78,7 @@ def main():
             f"Tete du journal de gel : {tete}", "",
             "## Demonstration de puissance (regle 1.2)", ""] +
             [f"- `{rel}` — sha256 : `{demo[rel]}`" for rel in DEMO] + [""]))
-    print("GEL MCS-05B :", ts, pre[:16], "tete", tete[:16])
+    print("GEL MCS-05b :", ts, pre[:16], "tete", tete[:16])
     return 0
 
 
