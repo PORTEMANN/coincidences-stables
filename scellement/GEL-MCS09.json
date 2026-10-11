@@ -1,0 +1,15 @@
+{
+  "acte": "GEL DE LA CARTE MCS-09 (jalon 3 v2)",
+  "horodatage_utc": "2026-10-11T04:17:04Z",
+  "convention": "sha256 sur le contenu PRE-GEL (bloc a null) ; bloc nul conserve ici pour verification octet par octet",
+  "genese_journal": "GENESIS-MCS-V2-GEL-MCS09",
+  "chainon_precedent_gel_cartes": "5f872a42d5c87b79e89aee781344f91d077a5995d347668883fb2212fba3b75a",
+  "carte": "cartes/v2/MCS-09-titius-bode.md",
+  "sha256_pre_gel": "8f8387ec24b55c2a5525700047438caf4a352718c42199951a2b95d8c063399c",
+  "bloc_nul_original": "```\nSHA256_CARTE : null\nHORODATAGE   : null\n```",
+  "demonstration_puissance": {
+    "validation/demonstration_puissance_mcs09.py": "56247efbc9b5f8d744f82e0a32dc67cebd0024fd5ae4c1eac2a3a50eca080dcf",
+    "validation/journal_puissance_mcs09.jsonl": "70b5c5a7be810e3427b44ab071ccdf07a798b927fffebff0ccc73e5de4dfe3d6"
+  },
+  "tete_journal": "92c46f97a8370201de0f9df23fc73319887e6ae88059eba174d055a020b0911d"
+}
