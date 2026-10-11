@@ -1,0 +1,15 @@
+{
+  "acte": "GEL DE LA CARTE MCS-17 (jalon 3 v2)",
+  "horodatage_utc": "2026-10-11T19:50:05Z",
+  "convention": "sha256 sur le contenu PRE-GEL (bloc a null) ; bloc nul conserve ici pour verification octet par octet",
+  "genese_journal": "GENESIS-MCS-V2-GEL-MCS17",
+  "chainon_precedent_gel_cartes": "7169666b9b7f11a2454e7668f81b643e30b07cf921cc920fe133ee8781c26691",
+  "carte": "cartes/v2/MCS-17-tension-h0-pantheon.md",
+  "sha256_pre_gel": "e6097a0eb7d64071f8e9e64f911782121531b6884999c893d3554b0ed868c847",
+  "bloc_nul_original": "```\nSHA256_CARTE : null\nHORODATAGE   : null\n```",
+  "demonstration_puissance": {
+    "validation/demonstration_puissance_mcs17.py": "29e138b3faa718c16ca7a1084565d67a94aadb7d5812f23f9c95b3ef75114ea9",
+    "validation/journal_puissance_mcs17.jsonl": "745fe4930335594b2c3a5d7d34a2e4f00b7cd3a54c3f23c357b03b7b6478092b"
+  },
+  "tete_journal": "25a0dee14f8ac76846ecb0c8964b3894293af3cd35c1bd3d40e9f256b11d6863"
+}
