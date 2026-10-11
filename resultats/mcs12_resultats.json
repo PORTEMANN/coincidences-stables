@@ -1,0 +1,87 @@
+{
+  "carte": "MCS-12",
+  "empreinte_carte_pre_gel": "90f1705d3d808674755c48fde200fae629d097ad79e4afa7b2d055bc1ad5eba4",
+  "empreintes_fichiers": {
+    "rpp2022-rev-bbang-nucleosynthesis.pdf": "b396161b0e4ce786cd44625314bdbc6d1dca175c299b4251bcb293d292820ead",
+    "rpp2024-rev-bbang-nucleosynthesis.pdf": "70e9a7b7fe0fcb275d1de0a50ab6c0e5f679392d501ec7b06653696f0d625e32"
+  },
+  "empreinte_donnees": "a5dc2fe3007c12febff358936191ef184a629b5c5b75a7a957a5cff60b867c56",
+  "predictions_Fields2020": {
+    "D/H": 2.559e-05,
+    "3He/H": 9.965e-06,
+    "Yp": 0.247,
+    "7Li/H": 4.702e-10
+  },
+  "observations_PDG2024": {
+    "D/H": 2.547e-05,
+    "3He/H": 1.1e-05,
+    "Yp": 0.245,
+    "7Li/H": 1.6e-10
+  },
+  "sigmas_PDG2024": {
+    "D/H": 2.9e-07,
+    "3He/H": 2e-06,
+    "Yp": 0.003,
+    "7Li/H": 3e-11
+  },
+  "observations_PDG2022": {
+    "D/H": 2.547e-05,
+    "3He/H": 1.1e-05,
+    "Yp": 0.245,
+    "7Li/H": 1.6e-10
+  },
+  "ecarts_dex_canoniques": {
+    "D/H": 0.002041340923570445,
+    "3He/H": -0.04291538212171897,
+    "Yp": 0.00353086889513321,
+    "7Li/H": 0.4681626421329952
+  },
+  "m_par_config": {
+    "g0_canonique_HORS_SIGMA": 0.6287998414704566
+  },
+  "z_par_g": {
+    "g0_canonique_HORS_SIGMA": 3.2055480445329514,
+    "g1_revue2022": 3.281776162734261,
+    "g2_sans_7Li": 7.216224625518325,
+    "g3_sans_3He": 2.075373521789353,
+    "g4_obs_plus_1sigma": 3.619129919244861,
+    "g5_obs_moins_1sigma": 2.8372186223930416,
+    "g6_retrait_3HeH": 2.08707382327405
+  },
+  "controles": {
+    "c1": 7.690546069100795,
+    "c2": 4.018150508806464
+  },
+  "verdict_moteur_seuil_3.0": {
+    "verdict": "CSp",
+    "sigma": 2.075374,
+    "seuil": 3.0,
+    "motif": "stabilite locale ; hors-echantillon non demontre",
+    "z_par_g": {
+      "g0_canonique_HORS_SIGMA": 3.205548,
+      "g1_revue2022": 3.281776,
+      "g2_sans_7Li": 7.216225,
+      "g3_sans_3He": 2.075374,
+      "g4_obs_plus_1sigma": 3.61913,
+      "g5_obs_moins_1sigma": 2.837219,
+      "g6_retrait_3HeH": 2.087074
+    },
+    "controles": {
+      "c1": 7.690546,
+      "c2": 4.018151
+    },
+    "puissances_controles": {
+      "c1": 7.690546,
+      "c2": 4.018151
+    },
+    "directions_controles": {
+      "c1": "conforme",
+      "c2": "conforme"
+    }
+  },
+  "verdict_carte_seuil_3.0": "CSp",
+  "deviations_declarees": [
+    "3He/H observation : valeur classique (1,1e-5) — la revue n'adopte pas de valeur (deviation de provenance)",
+    "predictions lues dans la source citee [44] de la revue (Fields et al. 2020, Table 3 'this work')"
+  ]
+}
