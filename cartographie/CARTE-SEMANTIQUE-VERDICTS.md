@@ -3,7 +3,8 @@
 **Date** : 2026-10-10 · **Périmètre** : campagne v0.1 (jalon 4 : MCS-01/02/03,
 moteur figé) + campagne v2.0 (jalons 1–4 v2 : MCS-04 à 07) + carte de
 calibration MCS-08 (Benford × CODATA, CS+) + MCS-09 (Titius-Bode, CSp) +
-verdicts du corpus mobilisés par les cartes (mvcg, M1/M1b, bifurcations,
+jalon 5 : MCS-10 (RAR × SPARC, CS+ non trivial) + verdicts du corpus
+mobilisés par les cartes (mvcg, M1/M1b, bifurcations,
 EEG P44/P47/P51).
 
 Cette carte ne classe pas les verdicts par numéro mais par **ce qu'ils
@@ -36,6 +37,10 @@ fermeture (ou de suspension) la réalité a choisi.
 
    loi historique figée :
    MCS-09 : CSp — Titius-Bode (Σ = 2,40) — la carte dort
+
+   régularité contemporaine mesurée :
+   MCS-10 : CS+ — RAR × SPARC (Σ = 19,28) — première confirmation non triviale
+   (avec diagnostic d'indépendance cinématique publié)
 ```
 
 ## 2. Les cinq modes de fermeture (la lecture sémantique)
@@ -101,6 +106,21 @@ notation. Ce CS+ n'est pas une découverte (Benford était connu) : c'est
 l'**étalon** qui donne leur valeur discriminante aux six fermetures et
 suspensions précédentes.
 
+### F-bis. Confirmation non triviale (CS+) — et l'honnêteté du diagnostic
+- **MCS-10** (relation d'accélération radiale figée 2016 × 175 galaxies
+  SPARC) : Σ = 19,28 ≫ 3,1 — z de 19,3 (distances stellaires seules) à 43,0
+  (centres retirés) sous toutes les déformations ; contrôles à 27,5 u et
+  7,1 u. **Diagnostic d'indépendance publié** : sur la composante gazeuse
+  seule (cinématiquement indépendante), la relation meurt (m = 0,056) —
+  la serréité vit sur la composante stellaire, qui partage la courbe de
+  rotation.
+
+*Signification* : la machine peut dire **oui** à une régularité contemporaine
+non triviale — et dire en même temps, par le diagnostic gelé, de quoi ce oui
+est fait. La RAR est une coïncidence stable mesurée ; sa non-indépendance
+partielle est mesurée aussi. L'interprétation physique reste hors de portée :
+c'est exactement le rôle de la machine.
+
 ### G. Suspension douce (CSp) — la carte dort
 - **MCS-09** (Titius-Bode, loi figée de 1772 × demi-grands axes mesurés) :
   Σ = 2,40 ∈ [2 ; 3,2). La loi historique dépasse le hasard structurel sous
@@ -119,6 +139,7 @@ non probante.
 
 | Survivant | Statut | Portée |
 |-----------|--------|--------|
+| **RAR × SPARC (MCS-10)** | **CS+ — Σ = 19,28** | coïncidence stable non triviale ; non-indépendance cinématique partielle mesurée (diagnostic gelé) |
 | **Benford × CODATA (MCS-08)** | **CS+ — Σ = 5,24** | étalon de calibration : l'opérateur reconnaît une régularité vraie |
 | Contacts harmoniques mvcg : μ, Z, charm | S+ locaux publiés | pesées par contact, PAS une loi globale (MCS-04 l'a mesuré) |
 | P-He : He est gaz noble | tranchée 5/5 | une bifurcation physique à bas Z, décidée |
@@ -127,10 +148,11 @@ non probante.
 
 ## 4. Ce que la carte dit du monde
 
-1. **Sur 9 cartes** : 2 inversions (CSi), 3 fermetures (CS−), 2 suspensions
-   (CS0), 1 étalon confirmé (CS+), 1 carte endormie (CSp). Le CS+ de
+1. **Sur 10 cartes** : 2 inversions (CSi), 3 fermetures (CS−), 2 suspensions
+   (CS0), 1 carte endormie (CSp), **2 confirmations (CS+)** dont une non
+   triviale (MCS-10, avec son diagnostic d'indépendance publié). Le CS+ de
    calibration mesure la machine ; les fermetures mesurent le monde ;
-   le CSp de Titius-Bode mesure une curiosité historique sans la promouvoir.
+   le CS+ non trivial mesure une régularité contemporaine *et* son envers.
 2. **Les correspondances numériques précises entre domaines éloignés meurent
    toutes au même endroit** : la déformation qui change l'échelle, le pas ou
    l'ancre (MCS-01 g, MCS-04 g5). Le monde contient des régularités
@@ -148,8 +170,7 @@ non probante.
 
 ---
 
-*Carte rédigée après clôture du jalon 4 v2, mise à jour après MCS-08 et
-MCS-09 (erratum d'identifiant d'empreinte publié au journal de MCS-09).
-Toute carte future (MCS-10+) ajoutera un point à cette carte, jamais ne
-révisera un point existant — les fermetures sont définitives, les
-suspensions attendent leur refonte unique.*
+*Carte rédigée après clôture du jalon 4 v2, mise à jour après MCS-08, MCS-09
+(erratum publié) et MCS-10 (jalon 5). Toute carte future (MCS-11+) ajoutera
+un point à cette carte, jamais ne révisera un point existant — les
+fermetures sont définitives, les suspensions attendent leur refonte unique.*
