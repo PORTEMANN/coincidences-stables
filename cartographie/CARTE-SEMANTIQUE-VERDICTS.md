@@ -66,6 +66,12 @@ fermeture (ou de suspension) la réalité a choisi.
    MCS-15 : CS+ — Zipf(α=1) × fréquences de mots (Σ = 207,4) — étalon II ;
    α ajusté 1,016 (Hugo) / 1,138 (Dickens) ; la machine distingue le
    domaine où la loi vit de celui où elle meurt
+
+   refontes uniques (registre) :
+   MCS-03b : NON SCELLÉE — puissance échouée (règle 1.2) ; KO-6 ↔ E₈ close
+   comme inappréciable
+   MCS-05b : CSp — ERD réel faible mesuré (m = 0,017), sous le seuil ;
+   la carte dort après avoir vu
 ```
 
 ## 2. Les cinq modes de fermeture (la lecture sémantique)
@@ -116,14 +122,22 @@ reste catégorie II — étiquetée, non promue.
 
 ### E. Test impuissant (CS0) — la machine refuse de trancher
 - **MCS-03** (KO6/E8 × groupes finis SU(2)) : les trois contrôles muets — le
-  matériau (15 paires) ne résout pas les sabotages ponctuels.
+  matériau (15 paires) ne résout pas les sabotages ponctuels. → **clôturée
+  par inappréciable après sa refonte unique** (MCS-03b : la démonstration de
+  puissance de l'opérateur corrigé a échoué — contrôles muets même sur
+  familles complètes ; la carte de refonte n'a jamais été scellée, règle 1.2).
 - **MCS-05** (agrégation centroïde EEG) : la mesure réelle est *sous* le nul
   IAAFT (0,457 < 0,493) ; le contrôle par permutation ne peut pas dégrader ce
-  qui est déjà en dessous (c1 = 1,82 u < 2 u).
+  qui est déjà en dessous (c1 = 1,82 u < 2 u). → **réfutée en CSp par sa
+  refonte unique** (MCS-05b : mesure ERD centrée sur zéro, pipeline puissant
+  — c2 = 47,6 u — signal faible mesuré, sous le seuil ; la carte dort à
+  nouveau, mais après avoir vu).
 
 *Signification* : le moteur v2.0 distingue « la correspondance est fausse » de
-« le test ne peut pas voir ». Les deux cartes sont **suspendues, pas closes** —
-une seule refonte chacune (MCS-03b, MCS-05b).
+« le test ne peut pas voir ». Les deux suspensions ont consommé leur unique
+refonte : MCS-03 est close comme inappréciable (le banc reste aveugle après
+réparation — deux opérateurs, aucun sabotage résolu) ; MCS-05 dort après sa
+refonte (CSp : signal faible mesuré, sous le seuil, pipeline puissant).
 
 ### F. Confirmation (CS+) — l'étalon de calibration
 - **MCS-08** (loi de Benford × constantes CODATA 2022) : Σ = 5,24 ≥ 3,0 —
@@ -236,8 +250,11 @@ une tension par élément qui reste un problème ouvert.
    l'ancre (MCS-01 g, MCS-04 g5). Le monde contient des régularités
    grossières ; il ne contient pas, dans ce qui a été testé, de réseaux
    précis cachés.
-3. **L'EEG comme source de lois zéro-paramètre est quadruplement fermé**
-   (P44, P47, P51, MCS-05/CS0) — la famille doit dormir.
+3. **L'EEG comme source de lois zéro-paramètre est fermé à cinq mesures**,
+   dont la refonte MCS-05b (CSp) : un signal ERD faible et réel existe dans
+   BCICIV-2a (m = 0,017 — s'effondre sous permutation des hémisphères, comme
+   il se doit), mais jamais au seuil — la famille dort avec un pipeline qui
+   voit.
 4. **Les vraies frontières trouvées sont internes au corpus** (r₁₂, M1) :
    la machine éclaire d'abord ses propres limites de dérivabilité.
 5. **L'honnêteté du dispositif est mesurée, pas affirmée** : deux CS0
@@ -249,7 +266,8 @@ une tension par élément qui reste un problème ouvert.
 ---
 
 *Carte rédigée après clôture du jalon 4 v2, mise à jour après MCS-08, MCS-09
-(erratum publié), MCS-10, MCS-11, MCS-12 (jalon 5), MCS-13, MCS-14 et
-MCS-15 (registre, étalon II). Toute carte future (MCS-16+) ajoutera un
-point à cette carte, jamais ne révisera un point existant — les fermetures
-sont définitives, les suspensions attendent leur refonte unique.*
+(erratum publié), MCS-10, MCS-11, MCS-12 (jalon 5), MCS-13, MCS-14, MCS-15
+(registre) et les refontes uniques MCS-03b / MCS-05b (registre clos).
+Toute carte future (MCS-16+) ajoutera un point à cette carte, jamais ne
+révisera un point existant — les fermetures sont définitives, les
+suspensions ont consommé leur refonte unique.*
