@@ -1,0 +1,15 @@
+{
+  "acte": "GEL DE LA CARTE MCS-13 (jalon 3 v2)",
+  "horodatage_utc": "2026-10-11T09:33:28Z",
+  "convention": "sha256 sur le contenu PRE-GEL (bloc a null) ; bloc nul conserve ici pour verification octet par octet",
+  "genese_journal": "GENESIS-MCS-V2-GEL-MCS13",
+  "chainon_precedent_gel_cartes": "8015ec31b280ddfbfea8e10926ff037c26f3e5ef253a6b5484e2c0922c4d54d9",
+  "carte": "cartes/v2/MCS-13-resonances-orbitales.md",
+  "sha256_pre_gel": "bef50920b091937166e3b919c89fc032ea85a97cbc1da5d799a508f009ea0363",
+  "bloc_nul_original": "```\nSHA256_CARTE : null\nHORODATAGE   : null\n```",
+  "demonstration_puissance": {
+    "validation/demonstration_puissance_mcs13.py": "c42fed9fb5149068c78240c0b6a5f20b2abd9435e33ecaa15886ec131139edf5",
+    "validation/journal_puissance_mcs13.jsonl": "68c11bbcacee488cd74a7d5f19e2cb3a77394ee169cb7a1accf8c4b445f6acd1"
+  },
+  "tete_journal": "5b1dc5a7562d88baf38e56853d5fe93c708111536b567a7665c1c9db8b7a7c4c"
+}
