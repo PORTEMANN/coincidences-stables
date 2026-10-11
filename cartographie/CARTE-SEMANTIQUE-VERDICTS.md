@@ -6,6 +6,7 @@ calibration MCS-08 (Benford × CODATA, CS+) + MCS-09 (Titius-Bode, CSp) +
 jalon 5 : MCS-10 (RAR × SPARC, CS+) + MCS-11 (Koide × leptons, CS+) +
 MCS-12 (BBN × éléments légers, CSp) + MCS-13 (résonances orbitales ×
 Exoplanet Archive, CS+) + MCS-14 (loi de rang × groupes d'espace, CSi) +
+MCS-15 (Zipf × texte, CS+ — étalon II) +
 verdicts du corpus mobilisés par les cartes (mvcg, M1/M1b, bifurcations,
 EEG P44/P47/P51).
 
@@ -60,6 +61,11 @@ fermeture (ou de suspension) la réalité a choisi.
    MCS-14 : CSi — Zipf(α=1) × 230 groupes d'espace (Σ = −14,0) —
    concentration réelle mais plus raide que la loi déclarée (α ≈ 1,8) ;
    la forme figée est anti-stable
+
+   même forme, son domaine :
+   MCS-15 : CS+ — Zipf(α=1) × fréquences de mots (Σ = 207,4) — étalon II ;
+   α ajusté 1,016 (Hugo) / 1,138 (Dickens) ; la machine distingue le
+   domaine où la loi vit de celui où elle meurt
 ```
 
 ## 2. Les cinq modes de fermeture (la lecture sémantique)
@@ -172,6 +178,18 @@ l'application identité (erreur de rédaction, substitution déclarée par N2)
 et un contrôle c1 très puissant (40 u) mais de direction inverse (défaut
 du sabotage, publié par la règle v2.0 qui sépare puissance et direction).
 
+### F-quinquies. Second étalon (CS+) — la machine distingue les domaines
+- **MCS-15** (Zipf α = 1 × fréquences de mots, Hugo français + Dickens
+  anglais) : Σ = 207,4 — z de 207 (fenêtre 1 000 rangs) à 1 123 sous toutes
+  les déformations ; α ajusté 1,016 / 1,017 (Hugo), 1,138 (Dickens) ;
+  contrôles à 1 278 u et 1 089 u.
+
+*Signification* : la paire MCS-14/MCS-15 est la démonstration croisée la
+plus propre du pouvoir de la machine : **même forme figée, deux domaines** —
+Zipf meurt sur les groupes d'espace (CSi, −14,0) et triomphe sur le texte
+(CS+, 207,4). Le pouvoir discriminant est mesuré des deux côtés, dans les
+deux sens. Second étalon validé — ce n'est pas une découverte.
+
 ### G. Suspension douce (CSp) — la carte dort
 - **MCS-09** (Titius-Bode, loi figée de 1772 × demi-grands axes mesurés) :
   Σ = 2,40 ∈ [2 ; 3,2). La loi historique dépasse le hasard structurel sous
@@ -196,6 +214,7 @@ une tension par élément qui reste un problème ouvert.
 
 | Survivant | Statut | Portée |
 |-----------|--------|--------|
+| **Zipf × texte (MCS-15)** | **CS+ — Σ = 207,4** | étalon II : la loi figée dans son domaine historique ; croisé avec MCS-14 (même forme, domaine hostile — pouvoir discriminant mesuré des deux côtés) |
 | **Résonances orbitales × Exoplanet Archive (MCS-13)** | **CS+ — Σ = 5,46** | regroupement stable sur rapports rationnels ; excès au large mesuré (diagnostic signé) ; contrôle inverse publié (règle v2.0) |
 | **Koide × leptons (MCS-11)** | **CS+ — Σ = 10,64** | exceptionnelle (3,3 ppm), stable, inexpliquée — n = 3 et circularité payés au seuil, publiée sans interprétation |
 | **RAR × SPARC (MCS-10)** | **CS+ — Σ = 19,28** | coïncidence stable non triviale ; non-indépendance cinématique partielle mesurée (diagnostic gelé) |
@@ -207,11 +226,11 @@ une tension par élément qui reste un problème ouvert.
 
 ## 4. Ce que la carte dit du monde
 
-1. **Sur 14 cartes** : **3 inversions** (CSi), 3 fermetures (CS−), 2 suspensions
-   (CS0), 2 cartes endormies (CSp), **4 confirmations (CS+)** : un étalon
-   (Benford), une régularité contemporaine avec caveat mesuré (RAR), une
-   exception rationnelle inexpliquée (Koide), un regroupement de population
-   avec nuance mesurée (résonances orbitales).
+1. **Sur 15 cartes** : 3 inversions (CSi), 3 fermetures (CS−), 2 suspensions
+   (CS0), 2 cartes endormies (CSp), **5 confirmations (CS+)** : deux étalons
+   (Benford, Zipf), une régularité contemporaine avec caveat mesuré (RAR),
+   une exception rationnelle inexpliquée (Koide), un regroupement de
+   population avec nuance mesurée (résonances orbitales).
 2. **Les correspondances numériques précises entre domaines éloignés meurent
    toutes au même endroit** : la déformation qui change l'échelle, le pas ou
    l'ancre (MCS-01 g, MCS-04 g5). Le monde contient des régularités
@@ -230,7 +249,7 @@ une tension par élément qui reste un problème ouvert.
 ---
 
 *Carte rédigée après clôture du jalon 4 v2, mise à jour après MCS-08, MCS-09
-(erratum publié), MCS-10, MCS-11, MCS-12 (jalon 5), MCS-13 et MCS-14
-(registre). Toute carte future (MCS-15+) ajoutera un point à cette carte,
-jamais ne révisera un point existant — les fermetures sont définitives, les
-suspensions attendent leur refonte unique.*
+(erratum publié), MCS-10, MCS-11, MCS-12 (jalon 5), MCS-13, MCS-14 et
+MCS-15 (registre, étalon II). Toute carte future (MCS-16+) ajoutera un
+point à cette carte, jamais ne révisera un point existant — les fermetures
+sont définitives, les suspensions attendent leur refonte unique.*
