@@ -4,6 +4,7 @@
 moteur figé) + campagne v2.0 (jalons 1–4 v2 : MCS-04 à 07) + carte de
 calibration MCS-08 (Benford × CODATA, CS+) + MCS-09 (Titius-Bode, CSp) +
 jalon 5 : MCS-10 (RAR × SPARC, CS+) + MCS-11 (Koide × leptons, CS+) +
+MCS-12 (BBN × éléments légers, CSp) +
 verdicts du corpus mobilisés par les cartes (mvcg, M1/M1b, bifurcations,
 EEG P44/P47/P51).
 
@@ -45,6 +46,10 @@ fermeture (ou de suspension) la réalité a choisi.
    formule rationnelle inexpliquée :
    MCS-11 : CS+ — Koide × leptons (Σ = 10,64) — exceptionnelle, stable,
    inexpliquée (n = 3, circularité payée au seuil — publiée sans interprétation)
+
+   concordance théorique d'ensemble :
+   MCS-12 : CSp — BBN à un paramètre × D/³He/⁴He/⁷Li (Σ = 2,08) —
+   la carte dort ; rupture ⁷Li mesurée (0,468 dex) au diagnostic
 ```
 
 ## 2. Les cinq modes de fermeture (la lecture sémantique)
@@ -144,12 +149,18 @@ et ne prononce que le premier.
   le diagnostic de cohortes sépare proprement l'avant et l'après 1772
   (3,3 % RMS sur le monde connu à la formulation ; 27 % sur les découvertes
   ultérieures — Uranus et Cérès prédites, Neptune et Pluton rompues).
+- **MCS-12** (BBN à un paramètre × quatre éléments légers) : Σ = 2,08 ∈
+  [2 ; 3,0). Trois accords remarquables (0,002–0,04 dex : D/H, ³He/H, Y_p)
+  portent la concordance d'ensemble au-dessus des univers aléatoires, mais
+  la rupture ⁷Li (0,468 dex, publiée au diagnostic) tient Σ sous le seuil
+  quand un autre élément sort (g3 : 2,08 ; g6 : 2,09).
 
 *Signification* : il existe une troisième issue entre confirmer et fermer —
 **dormir**. La correspondance est meilleure que le hasard, insuffisante pour
 être stable au sens MCS : aucune revendication, aucune fermeture, aucune
 refonte. Titius-Bode est mesurée comme curiosité historique réelle mais
-non probante.
+non probante ; la BBN est mesurée comme concordance d'ensemble réelle avec
+une tension par élément qui reste un problème ouvert.
 
 ## 3. Ce qui survit (confirmations MCS et pesées locales du corpus)
 
@@ -165,8 +176,8 @@ non probante.
 
 ## 4. Ce que la carte dit du monde
 
-1. **Sur 11 cartes** : 2 inversions (CSi), 3 fermetures (CS−), 2 suspensions
-   (CS0), 1 carte endormie (CSp), **3 confirmations (CS+)** : un étalon
+1. **Sur 12 cartes** : 2 inversions (CSi), 3 fermetures (CS−), 2 suspensions
+   (CS0), **2 cartes endormies** (CSp), **3 confirmations (CS+)** : un étalon
    (Benford), une régularité contemporaine avec caveat mesuré (RAR), une
    exception rationnelle inexpliquée (Koide).
 2. **Les correspondances numériques précises entre domaines éloignés meurent
@@ -187,6 +198,7 @@ non probante.
 ---
 
 *Carte rédigée après clôture du jalon 4 v2, mise à jour après MCS-08, MCS-09
-(erratum publié), MCS-10 et MCS-11 (jalon 5). Toute carte future (MCS-12+)
-ajoutera un point à cette carte, jamais ne révisera un point existant — les
-fermetures sont définitives, les suspensions attendent leur refonte unique.*
+(erratum publié), MCS-10, MCS-11 et MCS-12 (jalon 5 complet). Toute carte
+future (MCS-13+) ajoutera un point à cette carte, jamais ne révisera un
+point existant — les fermetures sont définitives, les suspensions attendent
+leur refonte unique.*
