@@ -1,0 +1,148 @@
+{
+  "carte": "MCS-14",
+  "empreinte_carte_pre_gel": "c2202d9245cf30470d9a85d2f0fff653039511331c9834a558f51b5734ab2ff5",
+  "empreinte_donnees": "81ae4a1bf9b005a8e8455d36e271a584949a4bfd9ee99ed13cc3c1cf7624cbb5",
+  "n_structures_total": 525277,
+  "m_par_config": {
+    "g0_canonique_HORS_SIGMA": 0.10637088939419524
+  },
+  "z_par_g": {
+    "g0_canonique_HORS_SIGMA": -13.945118243333072,
+    "g1_monoclinique": -3.8220355324064386,
+    "g2_cubique": -1.3386234896953904,
+    "g3_sans_rang1": -10.327897368327534,
+    "g4_alpha_0.5": -9.957939523878899,
+    "g5_annee_2000_185_groupes": -4.297631737259505,
+    "g6_retrait_groupe_23": -14.01795861009919
+  },
+  "controles": {
+    "c1": 11.623591430408759,
+    "c2": -2.0565089479699603
+  },
+  "diagnostics": {
+    "alpha_canonique": 1.7975022700838268,
+    "alpha_monoclinique": 2.8763876819240837,
+    "alpha_cubique": 1.6284145722912495,
+    "tete": [
+      {
+        "groupe": 14,
+        "effectif": 160629
+      },
+      {
+        "groupe": 2,
+        "effectif": 123273
+      },
+      {
+        "groupe": 15,
+        "effectif": 42379
+      },
+      {
+        "groupe": 19,
+        "effectif": 27736
+      },
+      {
+        "groupe": 4,
+        "effectif": 21185
+      },
+      {
+        "groupe": 61,
+        "effectif": 14858
+      },
+      {
+        "groupe": 62,
+        "effectif": 9377
+      },
+      {
+        "groupe": 33,
+        "effectif": 6770
+      },
+      {
+        "groupe": 12,
+        "effectif": 5484
+      },
+      {
+        "groupe": 9,
+        "effectif": 5070
+      }
+    ]
+  },
+  "verdict_moteur_seuil_3.0": {
+    "verdict": "CSi",
+    "sigma": -14.017959,
+    "seuil": 3.0,
+    "motif": "inversion stable (Sigma <= -2), publication prioritaire ; note : controle(s) inverse(s) ['c2'] (puissant mais de direction opposee a l'attente — publie)",
+    "z_par_g": {
+      "g0_canonique_HORS_SIGMA": -13.945118,
+      "g1_monoclinique": -3.822036,
+      "g2_cubique": -1.338623,
+      "g3_sans_rang1": -10.327897,
+      "g4_alpha_0.5": -9.95794,
+      "g5_annee_2000_185_groupes": -4.297632,
+      "g6_retrait_groupe_23": -14.017959
+    },
+    "controles": {
+      "c1": 11.623591,
+      "c2": -2.056509
+    },
+    "puissances_controles": {
+      "c1": 11.623591,
+      "c2": 2.056509
+    },
+    "directions_controles": {
+      "c1": "conforme",
+      "c2": "inverse"
+    }
+  },
+  "verdict_carte_seuil_3.0": "CSi",
+  "exclus_g5_sans_donnee_annee": [
+    16,
+    17,
+    27,
+    28,
+    30,
+    49,
+    67,
+    80,
+    89,
+    90,
+    91,
+    93,
+    94,
+    95,
+    98,
+    101,
+    102,
+    103,
+    105,
+    106,
+    107,
+    116,
+    120,
+    124,
+    131,
+    132,
+    133,
+    138,
+    149,
+    157,
+    168,
+    171,
+    175,
+    177,
+    181,
+    195,
+    199,
+    200,
+    201,
+    207,
+    208,
+    209,
+    211,
+    214,
+    219
+  ],
+  "deviations_declarees": [
+    "g5 : filtre COD en annee exacte — opere sur l'annee 2000 seule (substitution)",
+    "g5 : 45 groupes sans comptage annuel (limitation serveur) exclus — evalue sur 185 groupes"
+  ]
+}
