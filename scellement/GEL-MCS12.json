@@ -1,0 +1,15 @@
+{
+  "acte": "GEL DE LA CARTE MCS-12 (jalon 3 v2)",
+  "horodatage_utc": "2026-10-11T08:32:36Z",
+  "convention": "sha256 sur le contenu PRE-GEL (bloc a null) ; bloc nul conserve ici pour verification octet par octet",
+  "genese_journal": "GENESIS-MCS-V2-GEL-MCS12",
+  "chainon_precedent_gel_cartes": "b3c1ec9670fa9ba7b55f430c8442765c5f33dd4afb1a577fefb29e961e9231d1",
+  "carte": "cartes/v2/MCS-12-bbn-elements-legers.md",
+  "sha256_pre_gel": "90f1705d3d808674755c48fde200fae629d097ad79e4afa7b2d055bc1ad5eba4",
+  "bloc_nul_original": "```\nSHA256_CARTE : null\nHORODATAGE   : null\n```",
+  "demonstration_puissance": {
+    "validation/demonstration_puissance_mcs12.py": "7dec9af4ca0931f1633be4ee112af14ea26ce13dcbf139b8ceb2b3ebbbc64902",
+    "validation/journal_puissance_mcs12.jsonl": "cab52a25bf2cd31d6569e08e01f3888899317b93477a341a9dca8e5133fc20ad"
+  },
+  "tete_journal": "8015ec31b280ddfbfea8e10926ff037c26f3e5ef253a6b5484e2c0922c4d54d9"
+}
