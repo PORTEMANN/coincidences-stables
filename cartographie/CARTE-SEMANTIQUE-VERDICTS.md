@@ -7,7 +7,8 @@ jalon 5 : MCS-10 (RAR × SPARC, CS+) + MCS-11 (Koide × leptons, CS+) +
 MCS-12 (BBN × éléments légers, CSp) + MCS-13 (résonances orbitales ×
 Exoplanet Archive, CS+) + MCS-14 (loi de rang × groupes d'espace, CSi) +
 MCS-15 (Zipf × texte, CS+ — étalon II) + MCS-16 (ratios de masses du
-corpus, CS0) +
+corpus, CS0→CSp par sa refonte) + MCS-17 (tension H0 × Pantheon+, CS+) +
+MCS-18 (CKM, NON SCELLÉE) + MCS-19 (KSS, NON SCELLÉE) +
 verdicts du corpus mobilisés par les cartes (mvcg, M1/M1b, bifurcations,
 EEG P44/P47/P51).
 
@@ -81,6 +82,14 @@ fermeture (ou de suspension) la réalité a choisi.
    refonte unique (MCS-16b : sabotage directionnel, banc réparé,
    c2 = 2,13 u ; Σ = 2,19 : la récolte dort — meilleure que le hasard,
    sous le seuil, la frontière grise nommée)
+
+   tension cosmologique et frontieres du registre :
+   MCS-17 : CS+ — tension H0 × Pantheon+ (Σ = 8,15) — stable sous toutes
+   les deformations de l'echantillon ; robustesse mesuree
+   MCS-18 : NON SCELLÉE — unitarité CKM : la mesure sur 3 éléments n'a
+   pas le pouvoir (règle 1.2) ; MCS-19 : NON SCELLÉE — plancher KSS :
+   la mesure sur 3 systèmes n'atteint pas le seuil sur vérité plantée
+   (règle 1.2)
 ```
 
 ## 2. Les cinq modes de fermeture (la lecture sémantique)
@@ -211,6 +220,29 @@ l'application identité (erreur de rédaction, substitution déclarée par N2)
 et un contrôle c1 très puissant (40 u) mais de direction inverse (défaut
 du sabotage, publié par la règle v2.0 qui sépare puissance et direction).
 
+### F-sexies. La tension mesurée stable (CS+)
+- **MCS-17** (tension H0 × 1 701 supernovae Pantheon+) : Σ = 8,15 ≥ 3,1 —
+  l'écart du module bas-z à la courbe de Planck gelée survit à toutes les
+  déformations de l'échantillon (z de 8,2 à 10,4 : rebinnage, bords en z,
+  retrait aléatoire) ; contrôles à 11,5 u et 10,8 u.
+
+*Signification* : le sixième CS+ mesure qu'une tension célèbre n'est pas un
+artefact de sélection — elle est stable dans l'échantillon. La machine ne
+dit pas si elle est physique nouvelle ou systématique : elle mesure sa
+robustesse, et la question physique reste hors de sa portée (déclaré).
+
+### H. Non scellées (règle 1.2) — la machine refuse de jouer sans pouvoir
+- **MCS-18** (unitarité CKM, première ligne) : la mesure −log₁₀(Δ) sur trois
+  éléments n'a pas le pouvoir de résoudre ses sabotages (démo : c1 = 1,33 u,
+  c2 = 1,18 u) — la carte dort sans avoir été gelée.
+- **MCS-19** (plancher KSS × ⁴He, gaz unitaire, QGP) : les contrôles
+  résolvent mais la mesure sur trois systèmes n'atteint pas le seuil sur la
+  vérité plantée (σ = 2,00 < 3,0) — la carte dort sans avoir été gelée.
+
+*Signification* : la règle 1.2 (puissance démontrée avant gel) a fermé deux
+cartes de plus sans qu'aucune mesure ne soit produite — c'est la discipline
+qui tient : pas de verdict sans pouvoir démontré, jamais.
+
 ### F-quinquies. Second étalon (CS+) — la machine distingue les domaines
 - **MCS-15** (Zipf α = 1 × fréquences de mots, Hugo français + Dickens
   anglais) : Σ = 207,4 — z de 207 (fenêtre 1 000 rangs) à 1 123 sous toutes
@@ -247,6 +279,7 @@ une tension par élément qui reste un problème ouvert.
 
 | Survivant | Statut | Portée |
 |-----------|--------|--------|
+| **Tension H0 × Pantheon+ (MCS-17)** | **CS+ — Σ = 8,15** | la tension est stable dans l'échantillon (pas un artefact de sélection) ; la question physique reste hors de portée (déclaré) |
 | **Zipf × texte (MCS-15)** | **CS+ — Σ = 207,4** | étalon II : la loi figée dans son domaine historique ; croisé avec MCS-14 (même forme, domaine hostile — pouvoir discriminant mesuré des deux côtés) |
 | **Résonances orbitales × Exoplanet Archive (MCS-13)** | **CS+ — Σ = 5,46** | regroupement stable sur rapports rationnels ; excès au large mesuré (diagnostic signé) ; contrôle inverse publié (règle v2.0) |
 | **Koide × leptons (MCS-11)** | **CS+ — Σ = 10,64** | exceptionnelle (3,3 ppm), stable, inexpliquée — n = 3 et circularité payés au seuil, publiée sans interprétation |
@@ -259,12 +292,13 @@ une tension par élément qui reste un problème ouvert.
 
 ## 4. Ce que la carte dit du monde
 
-1. **Sur 16 cartes + 3 refontes** : 3 inversions (CSi), 3 fermetures (CS−),
-   3 suspensions résolues (CS0 → inappréciable / CSp / CSp), 3 cartes
-   endormies (CSp), **5 confirmations (CS+)** : deux étalons (Benford,
-   Zipf), une régularité contemporaine avec caveat mesuré (RAR), une
-   exception rationnelle inexpliquée (Koide), un regroupement de
-   population avec nuance mesurée (résonances orbitales).
+1. **Sur 17 cartes + 3 refontes + 2 non scellées** : 3 inversions (CSi),
+   3 fermetures (CS−), 3 suspensions résolues (CS0 → inappréciable / CSp /
+   CSp), 4 cartes endormies (CSp), **6 confirmations (CS+)** : deux étalons
+   (Benford, Zipf), une régularité contemporaine avec caveat mesuré (RAR),
+   une exception rationnelle inexpliquée (Koide), un regroupement de
+   population avec nuance mesurée (résonances orbitales), une tension
+   cosmologique robuste (H0).
 2. **Les correspondances numériques précises entre domaines éloignés meurent
    toutes au même endroit** : la déformation qui change l'échelle, le pas ou
    l'ancre (MCS-01 g, MCS-04 g5). Le monde contient des régularités
@@ -287,7 +321,9 @@ une tension par élément qui reste un problème ouvert.
 
 *Carte rédigée après clôture du jalon 4 v2, mise à jour après MCS-08, MCS-09
 (erratum publié), MCS-10, MCS-11, MCS-12 (jalon 5), MCS-13, MCS-14, MCS-15
-(registre), les refontes uniques MCS-03b / MCS-05b / MCS-16b et MCS-16 (la
-machine juge sa maison). Toute carte future (MCS-17+) ajoutera un point à
-cette carte, jamais ne révisera un point existant — les fermetures sont
-définitives, les suspensions ont une seule refonte.*
+(registre), les refontes uniques MCS-03b / MCS-05b / MCS-16b, MCS-16 (la
+machine juge sa maison), MCS-17 (tension H0), MCS-18 et MCS-19 (non
+scellées — règle 1.2). Toute carte future ajoutera un point à cette carte,
+jamais ne révisera un point existant — les fermetures sont définitives,
+les suspensions ont une seule refonte, et aucune carte ne se scelle sans
+puissance démontrée.*
