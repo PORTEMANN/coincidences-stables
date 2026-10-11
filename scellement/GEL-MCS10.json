@@ -1,0 +1,15 @@
+{
+  "acte": "GEL DE LA CARTE MCS-10 (jalon 3 v2)",
+  "horodatage_utc": "2026-10-11T06:53:31Z",
+  "convention": "sha256 sur le contenu PRE-GEL (bloc a null) ; bloc nul conserve ici pour verification octet par octet",
+  "genese_journal": "GENESIS-MCS-V2-GEL-MCS10",
+  "chainon_precedent_gel_cartes": "92c46f97a8370201de0f9df23fc73319887e6ae88059eba174d055a020b0911d",
+  "carte": "cartes/v2/MCS-10-rar-sparc.md",
+  "sha256_pre_gel": "c9c9d6fdf4841ffe4e2cf37b2e447372a4ef48bad502ff58abc053aadf668089",
+  "bloc_nul_original": "```\nSHA256_CARTE : null\nHORODATAGE   : null\n```",
+  "demonstration_puissance": {
+    "validation/demonstration_puissance_mcs10.py": "c62612449ee07041e6970893de6ede1c2d77412319af3be1be819936d35a1c6c",
+    "validation/journal_puissance_mcs10.jsonl": "a09ce1fd28a8a88f5f3bdb4f8a94070252bdff4c762183026fe264693a22a1e5"
+  },
+  "tete_journal": "f4ecc5a09c9ba116cd69f40be7734067f778eeaa91b000c33e6dc1069f8fb3c6"
+}
