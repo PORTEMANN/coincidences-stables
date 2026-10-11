@@ -4,7 +4,8 @@
 moteur figé) + campagne v2.0 (jalons 1–4 v2 : MCS-04 à 07) + carte de
 calibration MCS-08 (Benford × CODATA, CS+) + MCS-09 (Titius-Bode, CSp) +
 jalon 5 : MCS-10 (RAR × SPARC, CS+) + MCS-11 (Koide × leptons, CS+) +
-MCS-12 (BBN × éléments légers, CSp) +
+MCS-12 (BBN × éléments légers, CSp) + MCS-13 (résonances orbitales ×
+Exoplanet Archive, CS+) +
 verdicts du corpus mobilisés par les cartes (mvcg, M1/M1b, bifurcations,
 EEG P44/P47/P51).
 
@@ -50,6 +51,10 @@ fermeture (ou de suspension) la réalité a choisi.
    concordance théorique d'ensemble :
    MCS-12 : CSp — BBN à un paramètre × D/³He/⁴He/⁷Li (Σ = 2,08) —
    la carte dort ; rupture ⁷Li mesurée (0,468 dex) au diagnostic
+
+   regroupement sur rapports rationnels :
+   MCS-13 : CS+ — résonances orbitales × systèmes multiples (Σ = 5,46) —
+   stable ; l'excès au large mesuré (67 %, médiane +2,6 %)
 ```
 
 ## 2. Les cinq modes de fermeture (la lecture sémantique)
@@ -142,6 +147,20 @@ machine le mesure (un triplet hiérarchique libre n'approche jamais 2/3 à
 instructif épistémiquement : la machine sépare « exceptionnel » de « vrai »,
 et ne prononce que le premier.
 
+### F-quater. Regroupement stable, et la nuance mesurée (CS+)
+- **MCS-13** (résonances orbitales × 1 055 systèmes, 1 590 paires adjacentes) :
+  Σ = 5,46 ≥ 3,0 — z de 5,5 (paires r ≤ 4) à 23,5 sous toutes les
+  déformations ; **diagnostic signé publié** : 67 % des paires sont au large
+  des résonances (médiane +2,6 %) — le regroupement vit à côté des rapports,
+  pas dessus, exactement comme la littérature le mesurait.
+
+*Signification* : le quatrième CS+ confirme une régularité de population —
+et le diagnostic gelé en publie la nuance dans le même geste. La carte a
+aussi produit deux faits d'honnêteté : un nul N1 scellé qui était
+l'application identité (erreur de rédaction, substitution déclarée par N2)
+et un contrôle c1 très puissant (40 u) mais de direction inverse (défaut
+du sabotage, publié par la règle v2.0 qui sépare puissance et direction).
+
 ### G. Suspension douce (CSp) — la carte dort
 - **MCS-09** (Titius-Bode, loi figée de 1772 × demi-grands axes mesurés) :
   Σ = 2,40 ∈ [2 ; 3,2). La loi historique dépasse le hasard structurel sous
@@ -166,6 +185,7 @@ une tension par élément qui reste un problème ouvert.
 
 | Survivant | Statut | Portée |
 |-----------|--------|--------|
+| **Résonances orbitales × Exoplanet Archive (MCS-13)** | **CS+ — Σ = 5,46** | regroupement stable sur rapports rationnels ; excès au large mesuré (diagnostic signé) ; contrôle inverse publié (règle v2.0) |
 | **Koide × leptons (MCS-11)** | **CS+ — Σ = 10,64** | exceptionnelle (3,3 ppm), stable, inexpliquée — n = 3 et circularité payés au seuil, publiée sans interprétation |
 | **RAR × SPARC (MCS-10)** | **CS+ — Σ = 19,28** | coïncidence stable non triviale ; non-indépendance cinématique partielle mesurée (diagnostic gelé) |
 | **Benford × CODATA (MCS-08)** | **CS+ — Σ = 5,24** | étalon de calibration : l'opérateur reconnaît une régularité vraie |
@@ -176,10 +196,11 @@ une tension par élément qui reste un problème ouvert.
 
 ## 4. Ce que la carte dit du monde
 
-1. **Sur 12 cartes** : 2 inversions (CSi), 3 fermetures (CS−), 2 suspensions
-   (CS0), **2 cartes endormies** (CSp), **3 confirmations (CS+)** : un étalon
+1. **Sur 13 cartes** : 2 inversions (CSi), 3 fermetures (CS−), 2 suspensions
+   (CS0), 2 cartes endormies (CSp), **4 confirmations (CS+)** : un étalon
    (Benford), une régularité contemporaine avec caveat mesuré (RAR), une
-   exception rationnelle inexpliquée (Koide).
+   exception rationnelle inexpliquée (Koide), un regroupement de population
+   avec nuance mesurée (résonances orbitales).
 2. **Les correspondances numériques précises entre domaines éloignés meurent
    toutes au même endroit** : la déformation qui change l'échelle, le pas ou
    l'ancre (MCS-01 g, MCS-04 g5). Le monde contient des régularités
@@ -198,7 +219,7 @@ une tension par élément qui reste un problème ouvert.
 ---
 
 *Carte rédigée après clôture du jalon 4 v2, mise à jour après MCS-08, MCS-09
-(erratum publié), MCS-10, MCS-11 et MCS-12 (jalon 5 complet). Toute carte
-future (MCS-13+) ajoutera un point à cette carte, jamais ne révisera un
-point existant — les fermetures sont définitives, les suspensions attendent
-leur refonte unique.*
+(erratum publié), MCS-10, MCS-11, MCS-12 (jalon 5) et MCS-13 (registre).
+Toute carte future (MCS-14+) ajoutera un point à cette carte, jamais ne
+révisera un point existant — les fermetures sont définitives, les
+suspensions attendent leur refonte unique.*
