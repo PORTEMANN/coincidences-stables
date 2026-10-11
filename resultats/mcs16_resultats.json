@@ -1,0 +1,93 @@
+{
+  "carte": "MCS-16",
+  "empreinte_carte_pre_gel": "fd0b290b655ddd225d91dd1f97b0b4872d94bb5a078b13ab5bbeb28f3a938ed1",
+  "empreintes_fichiers": {
+    "mcs04_mass_width_2024.mcd": "12136f946df7860ef81f4e37d8314fe6ce3ae0b6bb77266994e56e4cf61e20d9",
+    "mcs04_mass_width_2022.mcd": "f99e43f1fc2855501fc06ff105eb0f60a6e8300409750ab9c455ebe2a5847435",
+    "mcs08_allascii_2022.txt": "77fb90e66c40db3e6eb16630bc9c88e4c7c8beddbe5e71be406f2f26e3f67e67",
+    "mcs08_allascii_2018.txt": "8c47c05db62c4d314a5244db51a47b4831616e55a8d357ced373a8620ff43be1"
+  },
+  "empreinte_donnees": "317c5da53e6f4488d3082407aaa8018e747dc31ceb76d7f64ce0e720b91dd6f4",
+  "alpha_2022": 0.0072973525643,
+  "alpha_2018": 0.0072973525693,
+  "masses_pdg2024_MeV": {
+    "e": 0.5109989500000001,
+    "mu": 105.6583755,
+    "p": 938.27208816,
+    "Z": 91188.0,
+    "s": 93.5,
+    "b": 4183.0,
+    "u": 2.16,
+    "c": 1273.0
+  },
+  "predictions_regles": {
+    "muon_quinte": 105.03787753792415,
+    "Z_diagonale": 90917.70615301776,
+    "strange_quarte": 104.25245423999999,
+    "bottom_G6": 4723.256550079465,
+    "up_G3": 2.2264295676960146,
+    "charm_G5": 1251.02945088
+  },
+  "ecarts_par_regle_dex": {
+    "muon_quinte": -0.0025579915745019832,
+    "Z_diagonale": -0.0012892205842431892,
+    "strange_quarte": 0.0472746767573855,
+    "bottom_G6": 0.05275367092998273,
+    "up_G3": 0.013155209782832578,
+    "charm_G5": -0.007560869976127371
+  },
+  "m_par_config": {
+    "g0_canonique_HORS_SIGMA": 1.528736521002271,
+    "g1_pdg2022_intersection": 1.5131189268014908,
+    "g2_alpha_2018": 1.5287365207459622,
+    "g3_sans_muon": 1.4894163839740988,
+    "g4_sans_bottom": 1.6528442529129799,
+    "g5_sans_zone_grise": 2.1123479890662646,
+    "g6_sans_strange_quarte": 1.609382218863654
+  },
+  "z_par_g": {
+    "g0_canonique_HORS_SIGMA": 11.80439735454873,
+    "g1_pdg2022_intersection": 2.1693992451462396,
+    "g2_alpha_2018": 11.16324674852963,
+    "g3_sans_muon": 7.533120526978659,
+    "g4_sans_bottom": 6.40490314521819,
+    "g5_sans_zone_grise": 4.611470593787411,
+    "g6_sans_strange_quarte": 8.186821110027575
+  },
+  "controles": {
+    "c1": 12.147649345388878,
+    "c2": 1.1994437133954385
+  },
+  "verdict_moteur_seuil_3.0": {
+    "verdict": "CS0",
+    "sigma": 2.169399,
+    "seuil": 3.0,
+    "motif": "controles positifs muets (|effet| < 2 u) : ['c2'] ; test impuissant",
+    "z_par_g": {
+      "g0_canonique_HORS_SIGMA": 11.804397,
+      "g1_pdg2022_intersection": 2.169399,
+      "g2_alpha_2018": 11.163247,
+      "g3_sans_muon": 7.533121,
+      "g4_sans_bottom": 6.404903,
+      "g5_sans_zone_grise": 4.611471,
+      "g6_sans_strange_quarte": 8.186821
+    },
+    "controles": {
+      "c1": 12.147649,
+      "c2": 1.199444
+    },
+    "puissances_controles": {
+      "c1": 12.147649,
+      "c2": 1.199444
+    },
+    "directions_controles": {
+      "c1": "conforme",
+      "c2": "faible"
+    }
+  },
+  "verdict_carte_seuil_3.2": "CS0",
+  "decisions_execution": [
+    "g1 : intersection des editions (muon, Z, bottom)",
+    "regle 4 : m_c^corps = 1251,029 MeV (chaine interne gelee)"
+  ]
+}
