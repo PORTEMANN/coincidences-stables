@@ -3,8 +3,8 @@
 **Date** : 2026-10-10 · **Périmètre** : campagne v0.1 (jalon 4 : MCS-01/02/03,
 moteur figé) + campagne v2.0 (jalons 1–4 v2 : MCS-04 à 07) + carte de
 calibration MCS-08 (Benford × CODATA, CS+) + MCS-09 (Titius-Bode, CSp) +
-jalon 5 : MCS-10 (RAR × SPARC, CS+ non trivial) + verdicts du corpus
-mobilisés par les cartes (mvcg, M1/M1b, bifurcations,
+jalon 5 : MCS-10 (RAR × SPARC, CS+) + MCS-11 (Koide × leptons, CS+) +
+verdicts du corpus mobilisés par les cartes (mvcg, M1/M1b, bifurcations,
 EEG P44/P47/P51).
 
 Cette carte ne classe pas les verdicts par numéro mais par **ce qu'ils
@@ -41,6 +41,10 @@ fermeture (ou de suspension) la réalité a choisi.
    régularité contemporaine mesurée :
    MCS-10 : CS+ — RAR × SPARC (Σ = 19,28) — première confirmation non triviale
    (avec diagnostic d'indépendance cinématique publié)
+
+   formule rationnelle inexpliquée :
+   MCS-11 : CS+ — Koide × leptons (Σ = 10,64) — exceptionnelle, stable,
+   inexpliquée (n = 3, circularité payée au seuil — publiée sans interprétation)
 ```
 
 ## 2. Les cinq modes de fermeture (la lecture sémantique)
@@ -121,6 +125,18 @@ est fait. La RAR est une coïncidence stable mesurée ; sa non-indépendance
 partielle est mesurée aussi. L'interprétation physique reste hors de portée :
 c'est exactement le rôle de la machine.
 
+### F-ter. Exception mesurée sans explication (CS+)
+- **MCS-11** (formule de Koide figée 1982 × masses e/μ/τ) : Σ = 10,64 ≫ 3,1 —
+  K = 0,6666645 (3,3 ppm), stable sous deux autorités de mesure, quatre
+  éditions, incertitudes et unités ; 2/3 est le meilleur rationnel simple
+  du panel (m = 5,48 ; suivant à 1,10).
+
+*Signification* : il y a des coïncidences qui ne sont **pas banales** — la
+machine le mesure (un triplet hiérarchique libre n'approche jamais 2/3 à
+3 ppm) — tout en refusant de les expliquer. Le troisième CS+ est le plus
+instructif épistémiquement : la machine sépare « exceptionnel » de « vrai »,
+et ne prononce que le premier.
+
 ### G. Suspension douce (CSp) — la carte dort
 - **MCS-09** (Titius-Bode, loi figée de 1772 × demi-grands axes mesurés) :
   Σ = 2,40 ∈ [2 ; 3,2). La loi historique dépasse le hasard structurel sous
@@ -139,6 +155,7 @@ non probante.
 
 | Survivant | Statut | Portée |
 |-----------|--------|--------|
+| **Koide × leptons (MCS-11)** | **CS+ — Σ = 10,64** | exceptionnelle (3,3 ppm), stable, inexpliquée — n = 3 et circularité payés au seuil, publiée sans interprétation |
 | **RAR × SPARC (MCS-10)** | **CS+ — Σ = 19,28** | coïncidence stable non triviale ; non-indépendance cinématique partielle mesurée (diagnostic gelé) |
 | **Benford × CODATA (MCS-08)** | **CS+ — Σ = 5,24** | étalon de calibration : l'opérateur reconnaît une régularité vraie |
 | Contacts harmoniques mvcg : μ, Z, charm | S+ locaux publiés | pesées par contact, PAS une loi globale (MCS-04 l'a mesuré) |
@@ -148,11 +165,10 @@ non probante.
 
 ## 4. Ce que la carte dit du monde
 
-1. **Sur 10 cartes** : 2 inversions (CSi), 3 fermetures (CS−), 2 suspensions
-   (CS0), 1 carte endormie (CSp), **2 confirmations (CS+)** dont une non
-   triviale (MCS-10, avec son diagnostic d'indépendance publié). Le CS+ de
-   calibration mesure la machine ; les fermetures mesurent le monde ;
-   le CS+ non trivial mesure une régularité contemporaine *et* son envers.
+1. **Sur 11 cartes** : 2 inversions (CSi), 3 fermetures (CS−), 2 suspensions
+   (CS0), 1 carte endormie (CSp), **3 confirmations (CS+)** : un étalon
+   (Benford), une régularité contemporaine avec caveat mesuré (RAR), une
+   exception rationnelle inexpliquée (Koide).
 2. **Les correspondances numériques précises entre domaines éloignés meurent
    toutes au même endroit** : la déformation qui change l'échelle, le pas ou
    l'ancre (MCS-01 g, MCS-04 g5). Le monde contient des régularités
@@ -171,6 +187,6 @@ non probante.
 ---
 
 *Carte rédigée après clôture du jalon 4 v2, mise à jour après MCS-08, MCS-09
-(erratum publié) et MCS-10 (jalon 5). Toute carte future (MCS-11+) ajoutera
-un point à cette carte, jamais ne révisera un point existant — les
+(erratum publié), MCS-10 et MCS-11 (jalon 5). Toute carte future (MCS-12+)
+ajoutera un point à cette carte, jamais ne révisera un point existant — les
 fermetures sont définitives, les suspensions attendent leur refonte unique.*
