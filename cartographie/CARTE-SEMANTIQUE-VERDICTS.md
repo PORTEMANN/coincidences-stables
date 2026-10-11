@@ -77,8 +77,10 @@ fermeture (ou de suspension) la réalité a choisi.
    la machine juge sa maison :
    MCS-16 : CS0 — six ratios gelés du corpus × masses PDG/CODATA —
    suspendue (c2 muet : le sabotage ×1,05 se compense sur des écarts de
-   signes dispersés — défaut de sabotage publié ; la lecture reproduit
-   exactement les contacts mvcg)
+   signes dispersés — défaut de sabotage publié) → résolue en CSp par sa
+   refonte unique (MCS-16b : sabotage directionnel, banc réparé,
+   c2 = 2,13 u ; Σ = 2,19 : la récolte dort — meilleure que le hasard,
+   sous le seuil, la frontière grise nommée)
 ```
 
 ## 2. Les cinq modes de fermeture (la lecture sémantique)
@@ -141,16 +143,20 @@ reste catégorie II — étiquetée, non promue.
   nouveau, mais après avoir vu).
 - **MCS-16** (six ratios de masses gelés du corpus × PDG/CODATA) : c2 muet
   (1,20 u) — le sabotage uniforme ×1,05 se compense sur des écarts de signes
-  dispersés ; la mesure était pourtant resolvable (c1 = 12,1 u). Suspendue ;
-  une seule refonte autorisée (MCS-16b). La lecture reproduit exactement les
+  dispersés ; la mesure était pourtant resolvable (c1 = 12,1 u). →
+  **résolue en CSp par sa refonte unique** (MCS-16b : sabotage directionnel
+  10 %, c2 = 2,13 u vivant ; Σ = 2,19 : la récolte dort — meilleure que le
+  hasard structurel, sous le seuil). La lecture reproduit exactement les
   contacts mvcg (muon −0,26 %, Z −0,30 %, up +3,1 %, charm −1,7 %,
   strange +11,5 %, bottom +12,9 %) ; z canonique = 11,8.
 
 *Signification* : le moteur v2.0 distingue « la correspondance est fausse » de
-« le test ne peut pas voir ». Les deux suspensions ont consommé leur unique
+« le test ne peut pas voir ». Les trois suspensions ont consommé leur unique
 refonte : MCS-03 est close comme inappréciable (le banc reste aveugle après
 réparation — deux opérateurs, aucun sabotage résolu) ; MCS-05 dort après sa
-refonte (CSp : signal faible mesuré, sous le seuil, pipeline puissant).
+refonte (CSp : signal faible mesuré, sous le seuil, pipeline puissant) ;
+MCS-16 dort après la sienne (CSp : la récolte du corpus meilleure que le
+hasard, sous le seuil — la frontière grise des quarks nommée, pas moyennée).
 
 ### F. Confirmation (CS+) — l'étalon de calibration
 - **MCS-08** (loi de Benford × constantes CODATA 2022) : Σ = 5,24 ≥ 3,0 —
@@ -246,19 +252,18 @@ une tension par élément qui reste un problème ouvert.
 | **Koide × leptons (MCS-11)** | **CS+ — Σ = 10,64** | exceptionnelle (3,3 ppm), stable, inexpliquée — n = 3 et circularité payés au seuil, publiée sans interprétation |
 | **RAR × SPARC (MCS-10)** | **CS+ — Σ = 19,28** | coïncidence stable non triviale ; non-indépendance cinématique partielle mesurée (diagnostic gelé) |
 | **Benford × CODATA (MCS-08)** | **CS+ — Σ = 5,24** | étalon de calibration : l'opérateur reconnaît une régularité vraie |
-| Contacts harmoniques mvcg : μ, Z, charm | S+ locaux publiés | pesées par contact, PAS une loi globale (MCS-04 l'a mesuré) |
+| Contacts harmoniques mvcg : μ, Z, charm | S+ locaux publiés | pesées par contact, PAS une loi globale (MCS-04 l'a mesuré) ; l'ensemble mesuré par MCS-16b : CSp |
 | P-He : He est gaz noble | tranchée 5/5 | une bifurcation physique à bas Z, décidée |
 | M1/M1b : inversion à r₁₂ | mesurée et répliquée | vraie sur les points-frontière, instable sous 𝒢 (MCS-07) |
 | Frontière r₁₂ (P31–P33, P39) | cartographiée | la limite du dérivable existe ; sa « loi » reste conjecture |
 
 ## 4. Ce que la carte dit du monde
 
-1. **Sur 16 cartes + 2 refontes** : 3 inversions (CSi), 3 fermetures (CS−),
-   3 suspensions (CS0 — MCS-03 close par inappréciable après sa refonte,
-   MCS-05 résolue en CSp par la sienne, MCS-16 suspendue en attente de la
-   sienne), 3 cartes endormies (CSp), **5 confirmations (CS+)** : deux
-   étalons (Benford, Zipf), une régularité contemporaine avec caveat mesuré
-   (RAR), une exception rationnelle inexpliquée (Koide), un regroupement de
+1. **Sur 16 cartes + 3 refontes** : 3 inversions (CSi), 3 fermetures (CS−),
+   3 suspensions résolues (CS0 → inappréciable / CSp / CSp), 3 cartes
+   endormies (CSp), **5 confirmations (CS+)** : deux étalons (Benford,
+   Zipf), une régularité contemporaine avec caveat mesuré (RAR), une
+   exception rationnelle inexpliquée (Koide), un regroupement de
    population avec nuance mesurée (résonances orbitales).
 2. **Les correspondances numériques précises entre domaines éloignés meurent
    toutes au même endroit** : la déformation qui change l'échelle, le pas ou
@@ -282,7 +287,7 @@ une tension par élément qui reste un problème ouvert.
 
 *Carte rédigée après clôture du jalon 4 v2, mise à jour après MCS-08, MCS-09
 (erratum publié), MCS-10, MCS-11, MCS-12 (jalon 5), MCS-13, MCS-14, MCS-15
-(registre), les refontes uniques MCS-03b / MCS-05b et MCS-16 (la machine
-juge sa maison). Toute carte future (MCS-16b+) ajoutera un point à cette
-carte, jamais ne révisera un point existant — les fermetures sont
+(registre), les refontes uniques MCS-03b / MCS-05b / MCS-16b et MCS-16 (la
+machine juge sa maison). Toute carte future (MCS-17+) ajoutera un point à
+cette carte, jamais ne révisera un point existant — les fermetures sont
 définitives, les suspensions ont une seule refonte.*
