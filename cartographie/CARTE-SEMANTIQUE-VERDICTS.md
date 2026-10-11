@@ -2,8 +2,9 @@
 
 **Date** : 2026-10-10 · **Périmètre** : campagne v0.1 (jalon 4 : MCS-01/02/03,
 moteur figé) + campagne v2.0 (jalons 1–4 v2 : MCS-04 à 07) + carte de
-calibration MCS-08 (Benford × CODATA, CS+) + verdicts du corpus
-mobilisés par les cartes (mvcg, M1/M1b, bifurcations, EEG P44/P47/P51).
+calibration MCS-08 (Benford × CODATA, CS+) + MCS-09 (Titius-Bode, CSp) +
+verdicts du corpus mobilisés par les cartes (mvcg, M1/M1b, bifurcations,
+EEG P44/P47/P51).
 
 Cette carte ne classe pas les verdicts par numéro mais par **ce qu'ils
 signifient** : quel type de correspondance était testé, et quel mode de
@@ -32,6 +33,9 @@ fermeture (ou de suspension) la réalité a choisi.
 
    calibration (régularité connue vraie) :
    MCS-08 : CS+ — Benford × CODATA (Σ = 5,24) — l'étalon
+
+   loi historique figée :
+   MCS-09 : CSp — Titius-Bode (Σ = 2,40) — la carte dort
 ```
 
 ## 2. Les cinq modes de fermeture (la lecture sémantique)
@@ -97,6 +101,20 @@ notation. Ce CS+ n'est pas une découverte (Benford était connu) : c'est
 l'**étalon** qui donne leur valeur discriminante aux six fermetures et
 suspensions précédentes.
 
+### G. Suspension douce (CSp) — la carte dort
+- **MCS-09** (Titius-Bode, loi figée de 1772 × demi-grands axes mesurés) :
+  Σ = 2,40 ∈ [2 ; 3,2). La loi historique dépasse le hasard structurel sous
+  toutes les déformations (2,40 ≤ z ≤ 3,19) mais n'atteint pas le seuil ;
+  le diagnostic de cohortes sépare proprement l'avant et l'après 1772
+  (3,3 % RMS sur le monde connu à la formulation ; 27 % sur les découvertes
+  ultérieures — Uranus et Cérès prédites, Neptune et Pluton rompues).
+
+*Signification* : il existe une troisième issue entre confirmer et fermer —
+**dormir**. La correspondance est meilleure que le hasard, insuffisante pour
+être stable au sens MCS : aucune revendication, aucune fermeture, aucune
+refonte. Titius-Bode est mesurée comme curiosité historique réelle mais
+non probante.
+
 ## 3. Ce qui survit (confirmations MCS et pesées locales du corpus)
 
 | Survivant | Statut | Portée |
@@ -109,9 +127,10 @@ suspensions précédentes.
 
 ## 4. Ce que la carte dit du monde
 
-1. **Une coïncidence stable confirmée (MCS-08, calibration) sur 8 cartes** —
-   2 inversions, 3 fermetures, 2 suspensions, 1 étalon. Le CS+ de calibration
-   mesure la machine ; les fermetures mesurent le monde.
+1. **Sur 9 cartes** : 2 inversions (CSi), 3 fermetures (CS−), 2 suspensions
+   (CS0), 1 étalon confirmé (CS+), 1 carte endormie (CSp). Le CS+ de
+   calibration mesure la machine ; les fermetures mesurent le monde ;
+   le CSp de Titius-Bode mesure une curiosité historique sans la promouvoir.
 2. **Les correspondances numériques précises entre domaines éloignés meurent
    toutes au même endroit** : la déformation qui change l'échelle, le pas ou
    l'ancre (MCS-01 g, MCS-04 g5). Le monde contient des régularités
@@ -123,11 +142,14 @@ suspensions précédentes.
    la machine éclaire d'abord ses propres limites de dérivabilité.
 5. **L'honnêteté du dispositif est mesurée, pas affirmée** : deux CS0
    informatifs (dont un produit par la règle signe-robuste v2.0 là où v0.1
-   aurait rendu un faux verdict), un défaut de conception publié (MCS-06, g6).
+   aurait rendu un faux verdict), un défaut de conception publié (MCS-06, g6),
+   et un erratum d'identifiant d'empreinte invalidant une exécution,
+   consigné au journal de MCS-09.
 
 ---
 
-*Carte rédigée après clôture du jalon 4 v2, mise à jour après MCS-08. Toute
-carte future (MCS-09+) ajoutera un point à cette carte, jamais ne révisera un
-point existant — les fermetures sont définitives, les suspensions attendent
-leur refonte unique.*
+*Carte rédigée après clôture du jalon 4 v2, mise à jour après MCS-08 et
+MCS-09 (erratum d'identifiant d'empreinte publié au journal de MCS-09).
+Toute carte future (MCS-10+) ajoutera un point à cette carte, jamais ne
+révisera un point existant — les fermetures sont définitives, les
+suspensions attendent leur refonte unique.*
