@@ -1,0 +1,69 @@
+{
+  "carte": "MCS-10",
+  "empreinte_carte_pre_gel": "c9c9d6fdf4841ffe4e2cf37b2e447372a4ef48bad502ff58abc053aadf668089",
+  "empreintes_fichiers": {
+    "MassModels_Lelli2016c.mrt": "9108994b12cc401b94a1768beca61c53ec354779385c9c9cc571049f3043244c",
+    "SPARC_Lelli2016c.mrt": "5aa0501f6b0d881fa579030e315e7b5b6ef561a5bd3a07472f9929c7e5728243"
+  },
+  "empreinte_donnees": "251f2b24a3dc519197efadbf43a762d977febed12c2c064445f1f68cfdcfc56f",
+  "n_galaxies": 175,
+  "n_points": 3391,
+  "m_par_config": {
+    "g0_canonique_HORS_SIGMA": 0.7014522388522185,
+    "g1_qualite_Q1": 0.7983741518841924,
+    "g2_upsilon_d_0.7": 0.6599334474173731,
+    "g3_inclinaison_30": 0.7089028335948058,
+    "g4_r_min_1kpc": 0.7770686664728287,
+    "g5_distances_etoiles": 0.6516893419301171,
+    "g6_retrait_NGC3917": 0.7008006262138262
+  },
+  "z_par_g": {
+    "g0_canonique_HORS_SIGMA": 41.7209650905105,
+    "g1_qualite_Q1": 40.5146421069653,
+    "g2_upsilon_d_0.7": 39.45164577762752,
+    "g3_inclinaison_30": 41.42372202575294,
+    "g4_r_min_1kpc": 43.034602823036224,
+    "g5_distances_etoiles": 19.27518452362191,
+    "g6_retrait_NGC3917": 40.69422363159721
+  },
+  "controles": {
+    "c1": 27.484040631358024,
+    "c2": 7.091244514161282
+  },
+  "diagnostics": {
+    "m_gaz_seul": 0.05647820879863053,
+    "rms_intra_median_dex": NaN
+  },
+  "verdict_moteur_seuil_3.0": {
+    "verdict": "CS+",
+    "sigma": 19.275185,
+    "seuil": 3.0,
+    "motif": "coincidence stable : survit a toutes les deformations",
+    "z_par_g": {
+      "g0_canonique_HORS_SIGMA": 41.720965,
+      "g1_qualite_Q1": 40.514642,
+      "g2_upsilon_d_0.7": 39.451646,
+      "g3_inclinaison_30": 41.423722,
+      "g4_r_min_1kpc": 43.034603,
+      "g5_distances_etoiles": 19.275185,
+      "g6_retrait_NGC3917": 40.694224
+    },
+    "controles": {
+      "c1": 27.484041,
+      "c2": 7.091245
+    },
+    "puissances_controles": {
+      "c1": 27.484041,
+      "c2": 7.091245
+    },
+    "directions_controles": {
+      "c1": "conforme",
+      "c2": "conforme"
+    }
+  },
+  "verdict_carte_seuil_3.1": "CS+",
+  "decisions_execution": [
+    "g5 : f_D dans {2, 3} (TRGB, Cepheides)",
+    "g6 : retrait PRNG public"
+  ]
+}
