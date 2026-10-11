@@ -1,0 +1,74 @@
+{
+  "carte": "MCS-13",
+  "empreinte_carte_pre_gel": "bef50920b091937166e3b919c89fc032ea85a97cbc1da5d799a508f009ea0363",
+  "empreinte_donnees": "c9da6c7a461245ed9da0690d004c102f09ab3fe3c3141aab2da8bb860ce92e46",
+  "n_systemes": 1055,
+  "n_paires": 1590,
+  "m_canonique": -2.1157927126454843,
+  "m_par_config": {
+    "g0_canonique_HORS_SIGMA": -2.1157927126454843,
+    "g4_r_max_4": 1.2587059469003803
+  },
+  "z_par_g": {
+    "g0_canonique_HORS_SIGMA": 23.487205392355857,
+    "g1_min_3_planetes": 10.754850179497605,
+    "g2_sans_KOI-351": 23.314210738525883,
+    "g3_premier_ordre": 23.264159600617,
+    "g4_r_max_4": 5.462401938518631,
+    "g5_fraction_1pc": 13.121264106756007,
+    "g6_retrait_paire_1102": 22.49721577471711
+  },
+  "controles": {
+    "c1": -39.95558466482949,
+    "c2": 8.266543021852687
+  },
+  "diagnostics": {
+    "fraction_au_large": 0.6685534591194968,
+    "fraction_au_strict": 0.3314465408805031,
+    "mediane_ecart_signe": 0.026205667818175314,
+    "histogramme_R": {
+      "2.0": 309,
+      "1.5": 159,
+      "1.3333333333333333": 57,
+      "1.25": 17,
+      "1.2": 5,
+      "3.0": 159,
+      "4.0": 507,
+      "2.5": 197,
+      "1.6666666666666667": 180
+    }
+  },
+  "verdict_moteur_seuil_3.0": {
+    "verdict": "CS+",
+    "sigma": 5.462402,
+    "seuil": 3.0,
+    "motif": "coincidence stable : survit a toutes les deformations ; note : controle(s) inverse(s) ['c1'] (puissant mais de direction opposee a l'attente — publie)",
+    "z_par_g": {
+      "g0_canonique_HORS_SIGMA": 23.487205,
+      "g1_min_3_planetes": 10.75485,
+      "g2_sans_KOI-351": 23.314211,
+      "g3_premier_ordre": 23.26416,
+      "g4_r_max_4": 5.462402,
+      "g5_fraction_1pc": 13.121264,
+      "g6_retrait_paire_1102": 22.497216
+    },
+    "controles": {
+      "c1": -39.955585,
+      "c2": 8.266543
+    },
+    "puissances_controles": {
+      "c1": 39.955585,
+      "c2": 8.266543
+    },
+    "directions_controles": {
+      "c1": "inverse",
+      "c2": "conforme"
+    }
+  },
+  "nuls_degeneres": [],
+  "verdict_carte_seuil_3.0": "CS+",
+  "decisions_execution": [
+    "g2 : retrait de KOI-351 (le plus de paires)",
+    "g5 : fraction de paires a delta < 1 %"
+  ]
+}
