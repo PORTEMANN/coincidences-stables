@@ -1,0 +1,63 @@
+{
+  "carte": "MCS-17",
+  "empreinte_carte_pre_gel": "e6097a0eb7d64071f8e9e64f911782121531b6884999c893d3554b0ed868c847",
+  "empreintes_fichiers": {
+    "pantheon_STATONLY.cov": "9f177129a332735d3637affd20054080d5260815f3ca0809120c05b2c902297f",
+    "pantheon_ref.dat": "1cb0fc379ef066afdc2ffd1857681cc478024570d8a3eba284fb645775198cf8"
+  },
+  "empreinte_donnees": "87d08dc39a1944d7200bbd594d07e57e125be61b9fbdaec78cb5a6c2fbc7868a",
+  "n_supernovae": 1701,
+  "m_par_config": {
+    "g0": 5.622766397143122
+  },
+  "z_par_g": {
+    "g0_canonique_HORS_SIGMA": 10.32648771459519,
+    "g1_sans_bin_haut": 8.726819588580392,
+    "g2_16_bins": 8.15335349093365,
+    "g3_sans_z_0.01": 10.032149890791626,
+    "g4_sans_z_1": 10.400774749254337,
+    "g5_covariance_STATSYS_INERTE": 10.32648771459519,
+    "g6_retrait_SN_620": 10.258775723938115
+  },
+  "controles": {
+    "c1": 11.487376983379578,
+    "c2": 10.815973977203418
+  },
+  "diagnostics": {
+    "m_ancrage_planck": 5.622766397143122,
+    "m_ancrage_shoes": 5.797270737097737,
+    "note_ancres": "la tension vit au bas-z ; les deux ancrages sont publies"
+  },
+  "verdict_moteur_seuil_3.0": {
+    "verdict": "CS+",
+    "sigma": 8.153353,
+    "seuil": 3.0,
+    "motif": "coincidence stable : survit a toutes les deformations",
+    "z_par_g": {
+      "g0_canonique_HORS_SIGMA": 10.326488,
+      "g1_sans_bin_haut": 8.72682,
+      "g2_16_bins": 8.153353,
+      "g3_sans_z_0.01": 10.03215,
+      "g4_sans_z_1": 10.400775,
+      "g5_covariance_STATSYS_INERTE": 10.326488,
+      "g6_retrait_SN_620": 10.258776
+    },
+    "controles": {
+      "c1": 11.487377,
+      "c2": 10.815974
+    },
+    "puissances_controles": {
+      "c1": 11.487377,
+      "c2": 10.815974
+    },
+    "directions_controles": {
+      "c1": "conforme",
+      "c2": "conforme"
+    }
+  },
+  "verdict_carte_seuil_3.1": "CS+",
+  "decisions_execution": [
+    "la constante +25 du module de distance (definition) ajoutee a la courbe gelee — la carte l'omettait par ecriture compacte",
+    "g5 : inerte sur la mesure non ponderee, rapportee"
+  ]
+}
