@@ -1,0 +1,15 @@
+{
+  "acte": "GEL DE LA CARTE MCS-11 (jalon 3 v2)",
+  "horodatage_utc": "2026-10-11T08:13:01Z",
+  "convention": "sha256 sur le contenu PRE-GEL (bloc a null) ; bloc nul conserve ici pour verification octet par octet",
+  "genese_journal": "GENESIS-MCS-V2-GEL-MCS11",
+  "chainon_precedent_gel_cartes": "f4ecc5a09c9ba116cd69f40be7734067f778eeaa91b000c33e6dc1069f8fb3c6",
+  "carte": "cartes/v2/MCS-11-koide-leptons.md",
+  "sha256_pre_gel": "7eaad89022d57ab342590196dc79c9ac880792c7879c07ea50e1e29fd2efbe21",
+  "bloc_nul_original": "```\nSHA256_CARTE : null\nHORODATAGE   : null\n```",
+  "demonstration_puissance": {
+    "validation/demonstration_puissance_mcs11.py": "ab1170983918cee8a2bedb366ef2422eb6af1ad343c47d4826018541829666cc",
+    "validation/journal_puissance_mcs11.jsonl": "ec945169653a3bd015db5dd881a6c884c1ed85a138f4e847d45f9ad2740b66ed"
+  },
+  "tete_journal": "b3c1ec9670fa9ba7b55f430c8442765c5f33dd4afb1a577fefb29e961e9231d1"
+}
