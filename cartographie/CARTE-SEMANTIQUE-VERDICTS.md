@@ -181,10 +181,13 @@ coïncidence stable — elle ne généralise pas hors de ses propres témoins.
   régression tuante aux comptes de MCS-24) ; la démo v1 (table complète)
   impuissante est publiée (plafond 1,46 σ), la correction pré-gel unique
   (règle de forme spectrale + contrôles d'instrument) est déclarée.
-  Défaut de rédaction publié : l'énoncé (section 1 de la carte scellée)
-  porte la formulation d'avant correction (« table des fermions ») —
-  modification perdue par écriture parallèle, attrapée à la relecture
-  post-gel ; le lexique gelé et l'exécution portent le canal leptonique.
+  Défaut de rédaction publié : l'énoncé (section 1), la liste des
+  diagnostics (section 8) et le regard ailleurs (section 10) de la carte
+  scellée portent la formulation d'avant correction — modifications
+  perdues par écriture parallèle, attrapées à la relecture post-gel par
+  la vérification d'empreintes ; le lexique gelé (section 2) et
+  l'exécution portent le canal leptonique, et le diagnostic de la table
+  complète est publié au runner au-delà de la liste de la section 8.
 
 *Signification* : la décroissance de la dérivabilité avec la complexité est
 **visible mais pas démontrable** à cette taille d'échantillon. La conjecture
