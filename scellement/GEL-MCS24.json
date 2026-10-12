@@ -1,0 +1,15 @@
+{
+  "acte": "GEL DE LA CARTE MCS-24 (jalon 3 v2)",
+  "horodatage_utc": "2026-10-12T09:35:17Z",
+  "convention": "sha256 sur le contenu PRE-GEL (bloc a null) ; bloc nul conserve ici pour verification octet par octet",
+  "genese_journal": "GENESIS-MCS-V2-GEL-MCS24",
+  "chainon_precedent_gel_cartes": "8b22667d4073b284696e053812e2469902dd3feb4acff9f0e38f00cefddcd215",
+  "carte": "cartes/v2/MCS-24-tarif-bh-porteur-repare.md",
+  "sha256_pre_gel": "5ab3ca699aa49ca21047726b656a47e1c586d2c94c48c48eb61de194085bb1db",
+  "bloc_nul_original": "```\nSHA256_CARTE : null\nHORODATAGE   : null\n```",
+  "demonstration_puissance": {
+    "validation/demonstration_puissance_mcs24.py": "74241196b90c330e1425ef8bb90723e687fbe7a0c5283d5aed7ae3ef1ab98ff2",
+    "validation/journal_puissance_mcs24.jsonl": "9f97d0affe00df59e7723fea38cc778c1b385febe49d81e70de94d5db14f0e36"
+  },
+  "tete_journal": "a06fa39e99fae9493b07a6a8faa01ed923010ad59d09d2d7282f243f949adafe"
+}
