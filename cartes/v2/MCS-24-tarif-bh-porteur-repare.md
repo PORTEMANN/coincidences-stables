@@ -49,14 +49,12 @@ l'exceptionnalité à cadran gelé, pas une loi.
 
 ## 4. Données et provenance (gelées)
 
-- **Constantes** : G_N (CODATA 2022, fichier donnees/mcs08_allascii_2022.txt
-  déjà acquis — MCS-08/16, empreintes reconsignées au runner) ; M_P gelée
-  dans le runner (convention déclarée).
-- **Contenu déclaré du corpus** : le porteur réparé (N_F = 5 — mesuré aux
-  verdicts T5/T6/T7, déclaré) ; triplet vérifié C4 (N_F = 4 — erratum
-  du dépôt, déclaré).
-- **Nul** : comptes de triplets nus vérifiés par taille, calculés par la
-  machine des orbites de T5 (filiation déclarée), fenêtre
+- **Constantes** : CODATA 2022/2018 déjà acquises (MCS-08/16 — empreintes
+  reconsignées au runner) ; M_P gelée dans le runner (convention déclarée).
+- **Le porteur** : N_F = 5 mesuré et publié (T5/T6 — verdicts du corpus) ;
+  lu et déclaré.
+- **Le nul réel** : comptes de triplets nus vérifiés par taille, calculés
+  par la machine des orbites de T5 (filiation déclarée), fenêtre
   n ∈ [2 ; 7] — calculés à l'exécution (déclaré), jamais avant le gel.
 - Aucune acquisition externe nouvelle.
 
@@ -103,7 +101,7 @@ c1 ou c2 vraiment muet (|effet| < 2 u, règle v2.0) → **CS0**.
 | Σ ≥ 3,0 | CS+ — le porteur réparé encaisse au bon taux, au-delà du nul réel |
 | 2 ≤ Σ < 3,0 | CSp |
 | −2 < Σ < 2 | CS− (B3-FAIL) — la proximité était combinatoire |
-| Σ ≤ −2 | CSi — le hasard de la fenêtre fait mieux |
+| Σ ≤ −2 | CSi |
 | un contrôle vraiment muet | CS0 |
 
 ## 10. Regard ailleurs (déclaration préalable)
