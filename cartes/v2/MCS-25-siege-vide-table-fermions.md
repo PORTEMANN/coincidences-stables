@@ -116,11 +116,10 @@ c1 ou c2 vraiment muet (|effet| < 2 u, règle v2.0) → **CS0**.
 
 - z_g = (m_g − μ_null,g)/u_g sous N1 pour chaque g ; Σ = min sur {g1…g6}.
 - Seuil CS+ : **3,0** (aucune famille éprouvée sur ce domaine).
-- Diagnostics rapportés (hors Σ) : le siège du porteur en dex ; le
-  siège du porteur dans la table complète des fermions (publié — la
-  table de la démo v1) ; la table des meilleurs sièges du nul ; le rang
-  du porteur dans le nul réel spectral (p = fraction au moins aussi
-  bien siègee) ; les comptes du nul par taille — publiés.
+- Diagnostics rapportés (hors Σ) : le siège du porteur en dex ; la
+  table des meilleurs sièges du nul ; le rang du porteur dans le nul
+  réel spectral (p = fraction au moins aussi bien siègee) ; les comptes
+  du nul par taille — publiés.
 
 ## 9. Critères de verdict
 
@@ -140,10 +139,8 @@ appliquée : le présent objet est un rapport, sans échelle. MCS-16 lue
 n'est pas une itération de MCS-16 : la question est différente (un
 contenu du banc contre une table, pas des règles contre des masses) et
 le nul est nouveau (réel spectral). T7 (le vide mesuré), T9 (le MS
-corrigé), T12 (la relation d'ancre) lus et déclarés. Le nul réel
-spectral a été calculé une première fois à la démo v1 (impuissante,
-publiée — correction déclarée en tête de carte) ; aucune mesure du
-contenu n'a été faite.
+corrigé), T12 (la relation d'ancre) lus et déclarés. Aucun calcul du
+nul réel spectral n'a été fait avant cette carte.
 
 ## 11. Critères d'arrêt
 

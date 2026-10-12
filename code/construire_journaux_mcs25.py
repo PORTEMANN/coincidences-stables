@@ -69,13 +69,17 @@ def main():
                    "est b/tau (2,354 — 0,046 dex) — mais la demo v1 a "
                    "mesure que cette question est plafonnee a 1,46 sigma "
                    "(table trop dense) — impuissance publiee. Defaut de "
-                   "redaction publie : l enonce (section 1 de la carte "
-                   "scellee) porte la formulation d avant correction "
-                   "(table des fermions) — modification perdue par "
-                   "ecriture parallele lors de la correction, attrapee a "
-                   "la relecture post-gel ; le lexique gele et "
-                   "l execution portent le canal leptonique (la mesure "
-                   "est celle du lexique)."},
+                   "redaction publie : l enonce (section 1), la liste "
+                   "des diagnostics (section 8) et le regard ailleurs "
+                   "(section 10) de la carte scellee portent la "
+                   "formulation d avant correction — modifications "
+                   "perdues par ecriture parallele lors de la "
+                   "correction, attrapees a la relecture post-gel par "
+                   "la verification d'empreintes ; le lexique gele "
+                   "(section 2) et l execution portent le canal "
+                   "leptonique, et le diagnostic de la table complete "
+                   "est publie au runner au-dela de la liste de la "
+                   "section 8 (la mesure est celle du lexique)."},
     ]
     path = os.path.join(RACINE, "journal", "JALON-MCS25.jsonl")
     if os.path.exists(path):
