@@ -1,0 +1,107 @@
+{
+  "carte": "MCS-27",
+  "empreinte_carte_pre_gel": "61cedbfeef7b8a358749aabc7e494d84a8cb8cbf7314016f8ad28b7735b77974",
+  "constantes_gelees": {
+    "V_VIDE": [
+      0.5278640450004204,
+      2.618033988749895
+    ],
+    "V_G3": [
+      0.5729490168751576,
+      5.0
+    ],
+    "empreintes_tables": {
+      "mcs04_mass_width_2024.mcd": "12136f946df7860ef81f4e37d8314fe6ce3ae0b6bb77266994e56e4cf61e20d9",
+      "mcs04_mass_width_2022.mcd": "f99e43f1fc2855501fc06ff105eb0f60a6e8300409750ab9c455ebe2a5847435"
+    }
+  },
+  "empreinte_donnees": "b83de0370c51ef7865f124b8906bda153a5a1ed3d828850db812a11947e790a4",
+  "m_par_config": {
+    "g0": -6.2680973922470855,
+    "g1": -6.267961610257857,
+    "g2": -6.2680973922470855,
+    "g3": -4.085392973871271,
+    "g4": -13.800018989790033,
+    "g5": -21.961527440425154,
+    "g6": -6.2680973922470855
+  },
+  "z_par_g": {
+    "g0_canonique_HORS_SIGMA": 1.0966009530216425,
+    "g1_edition_2022": 1.096602132885051,
+    "g2_forme_ampute": 1.2247448713915854,
+    "g3_vide_Lambda2.5": 3.262684835351654,
+    "g4_rapport_mu_e": 1.0911132875459661,
+    "g5_espace_lineaire": 1.002793961002381,
+    "g6_rang_leq_2": 1.76659326002895
+  },
+  "controles": {
+    "c1": 3.219128505646514,
+    "c2": 5.530145169360447
+  },
+  "diagnostics": {
+    "ecart_porteur_blanchi": 6.2680973922470855,
+    "composantes": {
+      "log_K": -0.10138522423348684,
+      "log_R": -0.8077911100240645
+    },
+    "correlation_nul_logK_logR": -0.5394697729171293,
+    "vecteurs_distincts_ampute": 2,
+    "rangs_dans_le_nul_conjoint": {
+      "g0": 0.23529411764705882,
+      "g1": 0.23529411764705882,
+      "g2": 0.4,
+      "g3": 0.0,
+      "g4": 0.23529411764705882,
+      "g5": 0.23529411764705882,
+      "g6": 0.11214953271028037
+    },
+    "comptes_nul": {
+      "forme_porteur": 6528,
+      "ampute": 160,
+      "rang_leq_2": 13696
+    },
+    "n2_permutation_composantes": {
+      "mu": -14.478456850526184,
+      "u": 0.9863964063523136,
+      "m_contenu_mesure_sous_n2": -9.103801850044956
+    },
+    "nul_canonique": [
+      -7.3731126526813995,
+      1.0076730805216667
+    ],
+    "note": "la metrique de blanchiment est la covariance du nul canonique (fixe, declaree) ; la degenerescence de l'ampute (defaut D1) est mesuree"
+  },
+  "verdict_moteur_seuil_3.0": {
+    "verdict": "CS-",
+    "sigma": 1.002794,
+    "seuil": 3.0,
+    "motif": "artefact probable ; publication B3-FAIL",
+    "z_par_g": {
+      "g0_canonique_HORS_SIGMA": 1.096601,
+      "g1_edition_2022": 1.096602,
+      "g2_forme_ampute": 1.224745,
+      "g3_vide_Lambda2.5": 3.262685,
+      "g4_rapport_mu_e": 1.091113,
+      "g5_espace_lineaire": 1.002794,
+      "g6_rang_leq_2": 1.766593
+    },
+    "controles": {
+      "c1": 3.219129,
+      "c2": 5.530145
+    },
+    "puissances_controles": {
+      "c1": 3.219129,
+      "c2": 5.530145
+    },
+    "directions_controles": {
+      "c1": "conforme",
+      "c2": "conforme"
+    }
+  },
+  "verdict_carte_seuil_3.0": "CS-",
+  "decisions_execution": [
+    "le nul conjoint de forme est enumere exhaustivement — jamais tire",
+    "controles d'instrument sur references (convention MCS-25) ; tirage par echantillonnage inverse (convention MCS-24)",
+    "la metrique de blanchiment est la covariance du nul canonique (fixe, declaree)"
+  ]
+}
