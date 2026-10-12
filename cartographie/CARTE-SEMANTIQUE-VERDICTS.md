@@ -14,7 +14,8 @@ jalon 7 : MCS-20 (constance w = −1 × Pantheon+, NON SCELLÉE) + MCS-21
 SCELLÉE) + MCS-23 (tarif Bekenstein-Hawking × contenu spectral du corpus,
 NON SCELLÉE) + MCS-24 (tarif × porteur réparé, nul réel, CSi) +
 jalon 8 : MCS-25 (siège du vide × canal leptonique, nul réel spectral,
-CS−) + verdicts du corpus mobilisés par les cartes (mvcg, M1/M1b,
+CS−) + MCS-26 (siège du vide × canal neutrinos, NON SCELLÉE) +
+verdicts du corpus mobilisés par les cartes (mvcg, M1/M1b,
 bifurcations, EEG P44/P47/P51).
 
 Cette carte ne classe pas les verdicts par numéro mais par **ce qu'ils
@@ -117,6 +118,10 @@ fermeture (ou de suspension) la réalité a choisi.
    μ/e — ordinaire parmi les triplets nus ; l'ancre n'est pas dans le
    canal ; démo v1 impuissante publiée (plafond 1,46 σ sur la table
    complète), correction déclarée unique
+   MCS-26 : NON SCELLÉE — siège du vide × canal neutrinos mesuré
+   (NuFIT) : deux démos impuissantes (nul spectral complet σ = 2,05 ;
+   nul de forme σ = 2,92 < 3,0) — un seul rapport mesuré n'a pas la
+   hauteur ; la carte dort sans avoir été gelée
 ```
 
 ## 2. Les cinq modes de fermeture (la lecture sémantique)
@@ -310,6 +315,17 @@ robustesse, et la question physique reste hors de sa portée (déclaré).
   les contrôles voient (c1 = 6,7 u) mais la vérité plantée au tarif
   plafonne à σ = 2,71 < 3,0 — la fenêtre contient le tarif par chance
   combinatoire (p = 1,6 % au mieux) ; la carte dort sans avoir été gelée.
+- **MCS-26** (siège du vide × canal neutrinos mesuré, R_ν = Δm²_31/Δm²_21,
+  NuFIT épinglé — campagne G, le dernier candidat déclaré de la frontière
+  de MCS-24) : v1 (nul réel spectral complet des masses²) σ = 2,05 ; v2
+  (correction unique consommée — le nul de forme mesurée du porteur à T13 :
+  taille 5, rang 2, distinct — 6 528 matrices) σ = 2,92 < 3,0 avec des
+  contrôles d'instrument qui résolvent (c1 = 2,6 u ; c2 = 3,6 u) : un seul
+  rapport mesuré n'a pas la hauteur requise, à deux pas mesurés ; la carte
+  dort sans avoir été gelée. Les trois candidats déclarés de la frontière
+  sont fermés : leptonique (MCS-25, CS− mesuré), neutrinos (plafond mesuré
+  ici), échelle de Majorana et constante cosmologique (par argument déclaré :
+  l'une n'est pas mesurée, l'autre vit dans le slot projeté — verdict T12).
 
 *Signification* : la règle 1.2 (puissance démontrée avant gel) a fermé
 cinq cartes de plus sans qu'aucune mesure réelle ne soit produite — dont
@@ -374,17 +390,17 @@ relevés récents.
 
 ## 4. Ce que la carte dit du monde
 
-1. **Sur 25 cartes numérotées + 3 refontes** : 4 inversions (CSi — dont le
+1. **Sur 26 cartes numérotées + 3 refontes** : 4 inversions (CSi — dont le
    tarif, mort de sa convention),
    4 fermetures (CS− — dont le siège du vide : l'ancre n'est pas dans le
    canal leptonique), 3 suspensions résolues (CS0 → inappréciable / CSp /
    CSp), 5 cartes endormies (CSp — dont S₈, dépendante de l'édition),
-   5 candidates non scellées (CKM, KSS, w exact, quasi-unification, tarif
-   des horizons),
+   6 candidates non scellées (CKM, KSS, w exact, quasi-unification, tarif
+   des horizons, siège neutrino),
    **6 confirmations (CS+)** : deux étalons
    (Benford, Zipf), une régularité contemporaine avec caveat mesuré (RAR),
    une exception rationnelle inexpliquée (Koide), un regroupement de
-   population avec nuance mesurée (résonances orbitales), une tension
+   population avec nuance mesuré (résonances orbitales), une tension
    cosmologique robuste (H0).
 2. **Les correspondances numériques précises entre domaines éloignés meurent
    toutes au même endroit** : la déformation qui change l'échelle, le pas ou
@@ -415,7 +431,9 @@ et unification), MCS-23 (tarif des horizons × contenu spectral du corpus —
 non scellée, règle 1.2), MCS-24 (tarif × porteur réparé — CSi : la
 coïncidence meurt de sa convention de cadran), MCS-25 (siège du vide ×
 canal leptonique — CS− : l'ancre mesurée n'est pas dans le canal ; le
-nul réel est devenu spectral). Toute carte future ajoutera un point à cette carte,
+nul réel est devenu spectral), MCS-26 (siège du vide × canal neutrinos —
+non scellée, règle 1.2 : un seul rapport mesuré n'a pas la hauteur, à
+deux pas mesurés). Toute carte future ajoutera un point à cette carte,
 jamais ne révisera un point existant — les fermetures sont définitives,
 les suspensions ont une seule refonte, et aucune carte ne se scelle sans
 puissance démontrée.*
