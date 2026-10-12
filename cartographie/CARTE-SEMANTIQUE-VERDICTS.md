@@ -9,6 +9,9 @@ Exoplanet Archive, CS+) + MCS-14 (loi de rang × groupes d'espace, CSi) +
 MCS-15 (Zipf × texte, CS+ — étalon II) + MCS-16 (ratios de masses du
 corpus, CS0→CSp par sa refonte) + MCS-17 (tension H0 × Pantheon+, CS+) +
 MCS-18 (CKM, NON SCELLÉE) + MCS-19 (KSS, NON SCELLÉE) +
+jalon 7 : MCS-20 (constance w = −1 × Pantheon+, NON SCELLÉE) + MCS-21
+(tension S₈ × CMB/lentilles, CSp) + MCS-22 (quasi-unification SM, NON
+SCELLÉE) +
 verdicts du corpus mobilisés par les cartes (mvcg, M1/M1b, bifurcations,
 EEG P44/P47/P51).
 
@@ -90,6 +93,16 @@ fermeture (ou de suspension) la réalité a choisi.
    pas le pouvoir (règle 1.2) ; MCS-19 : NON SCELLÉE — plancher KSS :
    la mesure sur 3 systèmes n'atteint pas le seuil sur vérité plantée
    (règle 1.2)
+
+   jalon 7 (secteur sombre et unification) :
+   MCS-20 : NON SCELLÉE — constance w = −1 : deux mesures impuissantes
+   (pente diluée dans l'ordonnée libre ; puis nul à étendue honnête de
+   dispersion égale à sa moyenne)
+   MCS-21 : CSp — tension S₈ (Σ = 2,62) : forte avec les éditions
+   historiques (z de 4,2 à 5,1), s'effondre sous KiDS-Legacy — la
+   tension dépend de l'édition ; la carte dort
+   MCS-22 : NON SCELLÉE — quasi-unification SM : même la mesure continue
+   (gap au croisement) est impuissante aux étendues honnêtes
 ```
 
 ## 2. Les cinq modes de fermeture (la lecture sémantique)
@@ -238,9 +251,22 @@ robustesse, et la question physique reste hors de sa portée (déclaré).
 - **MCS-19** (plancher KSS × ⁴He, gaz unitaire, QGP) : les contrôles
   résolvent mais la mesure sur trois systèmes n'atteint pas le seuil sur la
   vérité plantée (σ = 2,00 < 3,0) — la carte dort sans avoir été gelée.
+- **MCS-20** (constance de w = −1 × résidus Pantheon+) : deux mesures,
+  deux impuissances — la pente binnée dilue la dérive dans l'ordonnée
+  libre (σ = 1,66), puis le Δχ² face au nul à étendue honnête
+  [−1,4 ; −0,6] a une dispersion égale à sa moyenne (σ = 1,09) : la
+  question « exactement −1 » n'est pas tranchable à cette étendue ; la
+  carte dort sans avoir été gelée (correction pré-gel unique déclarée,
+  démo v1 publiée).
+- **MCS-22** (quasi-unification des couplages SM, gap au croisement t₁₂) :
+  même une mesure continue est impuissante — des couplages libres aux
+  étendues déclarées atteignent des gaps aussi petits (σ = 1,48 ;
+  sabotages < 1 u) ; la carte dort sans avoir été gelée.
 
-*Signification* : la règle 1.2 (puissance démontrée avant gel) a fermé deux
-cartes de plus sans qu'aucune mesure ne soit produite — c'est la discipline
+*Signification* : la règle 1.2 (puissance démontrée avant gel) a fermé
+quatre cartes de plus sans qu'aucune mesure réelle ne soit produite — dont
+trois sur les questions d'unification et de paramètre exact (CKM, KSS,
+couplages SM, w = −1) : c'est la discipline
 qui tient : pas de verdict sans pouvoir démontré, jamais.
 
 ### F-quinquies. Second étalon (CS+) — la machine distingue les domaines
@@ -267,13 +293,21 @@ deux sens. Second étalon validé — ce n'est pas une découverte.
   portent la concordance d'ensemble au-dessus des univers aléatoires, mais
   la rupture ⁷Li (0,468 dex, publiée au diagnostic) tient Σ sous le seuil
   quand un autre élément sort (g3 : 2,08 ; g6 : 2,09).
+- **MCS-21** (tension S₈ × familles CMB / lentilles faibles) : Σ = 2,62 ∈
+  [2 ; 3,1). La tension est forte avec les éditions historiques (z de 4,2
+  à 5,1 sous cinq déformations) mais s'effondre sous l'édition KiDS-Legacy
+  (z = 2,62) — la géographie 2026 est mesurée : KiDS converge vers le CMB,
+  DES reste bas. La carte dort ; la question physique (systématiques des
+  lentilles ou nouvelle physique) reste hors de portée.
 
 *Signification* : il existe une troisième issue entre confirmer et fermer —
 **dormir**. La correspondance est meilleure que le hasard, insuffisante pour
 être stable au sens MCS : aucune revendication, aucune fermeture, aucune
 refonte. Titius-Bode est mesurée comme curiosité historique réelle mais
 non probante ; la BBN est mesurée comme concordance d'ensemble réelle avec
-une tension par élément qui reste un problème ouvert.
+une tension par élément qui reste un problème ouvert ; la tension S₈ est
+mesurée comme dépendante de l'édition — forte hier, sous le seuil avec les
+relevés récents.
 
 ## 3. Ce qui survit (confirmations MCS et pesées locales du corpus)
 
@@ -292,9 +326,11 @@ une tension par élément qui reste un problème ouvert.
 
 ## 4. Ce que la carte dit du monde
 
-1. **Sur 17 cartes + 3 refontes + 2 non scellées** : 3 inversions (CSi),
+1. **Sur 22 cartes numérotées + 3 refontes** : 3 inversions (CSi),
    3 fermetures (CS−), 3 suspensions résolues (CS0 → inappréciable / CSp /
-   CSp), 4 cartes endormies (CSp), **6 confirmations (CS+)** : deux étalons
+   CSp), 5 cartes endormies (CSp — dont S₈, dépendante de l'édition),
+   4 candidates non scellées (CKM, KSS, w exact, quasi-unification),
+   **6 confirmations (CS+)** : deux étalons
    (Benford, Zipf), une régularité contemporaine avec caveat mesuré (RAR),
    une exception rationnelle inexpliquée (Koide), un regroupement de
    population avec nuance mesurée (résonances orbitales), une tension
@@ -323,7 +359,8 @@ une tension par élément qui reste un problème ouvert.
 (erratum publié), MCS-10, MCS-11, MCS-12 (jalon 5), MCS-13, MCS-14, MCS-15
 (registre), les refontes uniques MCS-03b / MCS-05b / MCS-16b, MCS-16 (la
 machine juge sa maison), MCS-17 (tension H0), MCS-18 et MCS-19 (non
-scellées — règle 1.2). Toute carte future ajoutera un point à cette carte,
+scellées — règle 1.2), MCS-20 / MCS-21 / MCS-22 (jalon 7 — secteur sombre
+et unification). Toute carte future ajoutera un point à cette carte,
 jamais ne révisera un point existant — les fermetures sont définitives,
 les suspensions ont une seule refonte, et aucune carte ne se scelle sans
 puissance démontrée.*
