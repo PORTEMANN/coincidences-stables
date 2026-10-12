@@ -1,0 +1,15 @@
+{
+  "acte": "GEL DE LA CARTE MCS-21 (jalon 3 v2)",
+  "horodatage_utc": "2026-10-12T03:54:41Z",
+  "convention": "sha256 sur le contenu PRE-GEL (bloc a null) ; bloc nul conserve ici pour verification octet par octet",
+  "genese_journal": "GENESIS-MCS-V2-GEL-MCS21",
+  "chainon_precedent_gel_cartes": "25a0dee14f8ac76846ecb0c8964b3894293af3cd35c1bd3d40e9f256b11d6863",
+  "carte": "cartes/v2/MCS-21-tension-s8.md",
+  "sha256_pre_gel": "48d55fcc28a714859f50af1b0e4aa8ec388f914b6d404b16d5171ee5f4cb909b",
+  "bloc_nul_original": "```\nSHA256_CARTE : null\nHORODATAGE   : null\n```",
+  "demonstration_puissance": {
+    "validation/demonstration_puissance_mcs21.py": "ee230712de006c96aeda9c5137f3dfbd697e92841e8855b185b77f7428fbfe59",
+    "validation/journal_puissance_mcs21.jsonl": "902151f225f4b78ab535a833a6729208b40bac0f48a45fe5bd872b8c2285e971"
+  },
+  "tete_journal": "8b22667d4073b284696e053812e2469902dd3feb4acff9f0e38f00cefddcd215"
+}

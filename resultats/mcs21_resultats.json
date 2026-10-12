@@ -1,0 +1,115 @@
+{
+  "carte": "MCS-21",
+  "empreinte_carte_pre_gel": "48d55fcc28a714859f50af1b0e4aa8ec388f914b6d404b16d5171ee5f4cb909b",
+  "mesures_gelees": {
+    "planck2018": {
+      "s8": 0.834,
+      "plus": 0.016,
+      "moins": 0.016,
+      "famille": "CMB",
+      "source": "Planck Collaboration 2020 (A&A 641, A6) — valeur Planck Legacy citee par Wright et al. 2025"
+    },
+    "act_dr6": {
+      "s8": 0.84,
+      "plus": 0.028,
+      "moins": 0.028,
+      "famille": "CMB",
+      "source": "Madhavacheril et al. 2024 (ApJ 962, 113) — ACT DR6 lentille+BAO+BBN"
+    },
+    "kids1000": {
+      "s8": 0.759,
+      "plus": 0.024,
+      "moins": 0.021,
+      "famille": "lentilles",
+      "source": "Asgari et al. 2021 (KiDS-1000, A&A 645, A104)"
+    },
+    "desy3": {
+      "s8": 0.759,
+      "plus": 0.025,
+      "moins": 0.023,
+      "famille": "lentilles",
+      "source": "Amon et al. / Secco et al. 2022 (DES-Y3 cosmic shear, PRD 105)"
+    },
+    "hscy3": {
+      "s8": 0.769,
+      "plus": 0.031,
+      "moins": 0.034,
+      "famille": "lentilles",
+      "source": "Li et al. 2023 / Dalal et al. 2023 (HSC-Y3, S8(xi))"
+    },
+    "combined_cmb_2026": {
+      "s8": 0.836,
+      "plus": 0.012,
+      "moins": 0.013,
+      "famille": "CMB",
+      "source": "Combined CMB (Planck+ACT+SPT) — revue Pantos 2026 / Abbott et al. 2026"
+    },
+    "kids_legacy": {
+      "s8": 0.815,
+      "plus": 0.016,
+      "moins": 0.021,
+      "famille": "lentilles",
+      "source": "Wright et al. 2025 (KiDS-Legacy, A&A)"
+    }
+  },
+  "empreinte_donnees": "e6898a49f58a47fd85c1377967725816b1b284401da003183515197907cf8a09",
+  "m_par_config": {
+    "g0": 3.687081179403808
+  },
+  "z_par_g": {
+    "g0_canonique_HORS_SIGMA": 4.804219137935539,
+    "g1_kids_legacy": 2.619661832328376,
+    "g2_combined_cmb_2026": 5.106422321653294,
+    "g3_bornes_hautes": 4.697228191880089,
+    "g4_bornes_basses": 4.956744087241915,
+    "g5_sans_hsc": 4.594085032119277,
+    "g6_retrait_act_dr6": 4.235224533473945
+  },
+  "controles": {
+    "c1": 6.076187721885405,
+    "c2": 6.076187721885387
+  },
+  "diagnostics": {
+    "T_canonique_sigma": 3.687081179403808,
+    "poids_canonique": {
+      "planck2018": 3906.25,
+      "act_dr6": 1275.5102040816325,
+      "kids1000": 1975.3086419753088,
+      "desy3": 1736.111111111111,
+      "hscy3": 946.7455621301774
+    },
+    "note": "la tension est publiee par mesure, pas moyennee inter-familles au-dela de T"
+  },
+  "verdict_moteur_seuil_3.0": {
+    "verdict": "CSp",
+    "sigma": 2.619662,
+    "seuil": 3.0,
+    "motif": "stabilite locale ; hors-echantillon non demontre",
+    "z_par_g": {
+      "g0_canonique_HORS_SIGMA": 4.804219,
+      "g1_kids_legacy": 2.619662,
+      "g2_combined_cmb_2026": 5.106422,
+      "g3_bornes_hautes": 4.697228,
+      "g4_bornes_basses": 4.956744,
+      "g5_sans_hsc": 4.594085,
+      "g6_retrait_act_dr6": 4.235225
+    },
+    "controles": {
+      "c1": 6.076188,
+      "c2": 6.076188
+    },
+    "puissances_controles": {
+      "c1": 6.076188,
+      "c2": 6.076188
+    },
+    "directions_controles": {
+      "c1": "conforme",
+      "c2": "conforme"
+    }
+  },
+  "verdict_carte_seuil_3.1": "CSp",
+  "decisions_execution": [
+    "g2 : la famille CMB devient Combined CMB 2026 seule (Planck et ACT en sont membres — declare)",
+    "c1 : T = 0 par construction (alignement exact declare)"
+  ]
+}
