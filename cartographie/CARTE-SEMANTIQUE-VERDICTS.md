@@ -417,7 +417,7 @@ relevés récents.
    **6 confirmations (CS+)** : deux étalons
    (Benford, Zipf), une régularité contemporaine avec caveat mesuré (RAR),
    une exception rationnelle inexpliquée (Koide), un regroupement de
-   population avec nuance mesuré (résonances orbitales), une tension
+   population avec nuance mesurée (résonances orbitales), une tension
    cosmologique robuste (H0).
 2. **Les correspondances numériques précises entre domaines éloignés meurent
    toutes au même endroit** : la déformation qui change l'échelle, le pas ou
