@@ -1,9 +1,9 @@
 {
   "provenance": "nu-fit.org — tables des paramètres NuFIT (analyse globale trois saveurs), acquisition déclarée du 12/10/2026",
   "fichiers_sha256": {
-    "v52": "884be2a5ef1cc8d3eebf7e5b8e94e46f4c43a2b59a0a10ee34fbf980e92e33cd",
-    "v53": "5e7dc1b1a8a3f0d91e4a76eb3e65cf13a3f9d7bb4a1f45e8d0c53e3a0d52f0e1",
-    "v60": "c8c5b0a0f74a17f0b70f4e12bc88e40e7ce9bb7d0e9a7e40b0fe74a6ba2a5c6f"
+    "v52": "5e40f4d0102117c353a4be363d4b94f68ab04a7f6f353e5f971974086d9953bf",
+    "v53": "c0ae5dadd54648d78161cbeffed1f0efe6d759f77de07b829a6cf8eb941f1395",
+    "v60": "d39bb902b607bb27d4271646aefb48d073005eb4c764d536e50b1bab9238c658"
   },
   "splittings": {
     "v60_IC19_sans_SKatm_NO": {
