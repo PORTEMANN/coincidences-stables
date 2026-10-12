@@ -12,7 +12,7 @@ MCS-18 (CKM, NON SCELLÉE) + MCS-19 (KSS, NON SCELLÉE) +
 jalon 7 : MCS-20 (constance w = −1 × Pantheon+, NON SCELLÉE) + MCS-21
 (tension S₈ × CMB/lentilles, CSp) + MCS-22 (quasi-unification SM, NON
 SCELLÉE) + MCS-23 (tarif Bekenstein-Hawking × contenu spectral du corpus,
-NON SCELLÉE) +
+NON SCELLÉE) + MCS-24 (tarif × porteur réparé, nul réel, CSi) +
 verdicts du corpus mobilisés par les cartes (mvcg, M1/M1b, bifurcations,
 EEG P44/P47/P51).
 
@@ -107,6 +107,10 @@ fermeture (ou de suspension) la réalité a choisi.
    MCS-23 : NON SCELLÉE — tarif des horizons × contenu spectral du
    corpus : les contrôles voient (6,7 u) mais la fenêtre combinatoire
    auditée contient le tarif par chance (plafond 2,71 σ)
+   MCS-24 : CSi — tarif × porteur réparé, nul réel (Σ = −10,71) :
+   la proximité au tarif est réelle au cadran non réduit (z = 10,9)
+   et s'inverse au cadran réduit (−10,7) — la coïncidence mesure la
+   convention de coupure, pas le contenu ; la question est close
 ```
 
 ## 2. Les cinq modes de fermeture (la lecture sémantique)
@@ -123,10 +127,20 @@ fermeture (ou de suspension) la réalité a choisi.
   la mesure scellée, la forme figée fait pire que des partitions uniformes,
   partout. Le contrôle c2 le signe : α = 2 *améliore* (contrôle vivant,
   direction inverse, publiée).
+- **MCS-24** (tarif de Bekenstein-Hawking η = 1/(4ℏG) × porteur réparé,
+  nul réel des triplets vérifiés du banc) : Σ = −10,71. La proximité est
+  réelle au cadran de Planck non réduit (z = 10,9 ; le porteur N_F = 5 et
+  C4 N_F = 4 sont les contenus les plus proches de la fenêtre réelle) mais
+  **s'inverse sous le cadran réduit** (z = −10,7) : la coïncidence mesure
+  la convention de coupure, pas le contenu — anti-stable.
 
 *Signification* : ces correspondances ne sont pas seulement absentes — elles
 sont **anti-stables**. Le monde, dans ces trois domaines, se range du côté
-opposé à la loi proposée. C'est le verdict le plus fort que la machine rende.
+opposé à la loi proposée. MCS-24 ajoute une quatrième inversion, d'une
+autre nature : la proximité au tarif n'est pas fausse au cadran canonique —
+elle **meurt de sa convention** : le monde (la géométrie spectrale) n'a pas
+de cadran privilégié, et une coïncidence qui en dépend est anti-stable.
+C'est le verdict le plus fort que la machine rende.
 
 ### B. Forme réelle mais non spécifique (CS−) — mieux que le hasard, pas au pas près
 - **MCS-04** (zoo particulaire × tempérament égal) : le canonique bat un réseau
@@ -336,7 +350,8 @@ relevés récents.
 
 ## 4. Ce que la carte dit du monde
 
-1. **Sur 23 cartes numérotées + 3 refontes** : 3 inversions (CSi),
+1. **Sur 24 cartes numérotées + 3 refontes** : 4 inversions (CSi — dont le
+   tarif, mort de sa convention),
    3 fermetures (CS−), 3 suspensions résolues (CS0 → inappréciable / CSp /
    CSp), 5 cartes endormies (CSp — dont S₈, dépendante de l'édition),
    5 candidates non scellées (CKM, KSS, w exact, quasi-unification, tarif
@@ -372,7 +387,8 @@ relevés récents.
 machine juge sa maison), MCS-17 (tension H0), MCS-18 et MCS-19 (non
 scellées — règle 1.2), MCS-20 / MCS-21 / MCS-22 (jalon 7 — secteur sombre
 et unification), MCS-23 (tarif des horizons × contenu spectral du corpus —
-non scellée, règle 1.2). Toute carte future ajoutera un point à cette carte,
+non scellée, règle 1.2), MCS-24 (tarif × porteur réparé — CSi : la
+coïncidence meurt de sa convention de cadran). Toute carte future ajoutera un point à cette carte,
 jamais ne révisera un point existant — les fermetures sont définitives,
 les suspensions ont une seule refonte, et aucune carte ne se scelle sans
 puissance démontrée.*
