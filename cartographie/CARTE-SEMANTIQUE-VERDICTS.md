@@ -15,6 +15,7 @@ SCELLÉE) + MCS-23 (tarif Bekenstein-Hawking × contenu spectral du corpus,
 NON SCELLÉE) + MCS-24 (tarif × porteur réparé, nul réel, CSi) +
 jalon 8 : MCS-25 (siège du vide × canal leptonique, nul réel spectral,
 CS−) + MCS-26 (siège du vide × canal neutrinos, NON SCELLÉE) +
+MCS-27 (mesure jointe de forme, nul conjoint, CS−) +
 verdicts du corpus mobilisés par les cartes (mvcg, M1/M1b,
 bifurcations, EEG P44/P47/P51).
 
@@ -122,6 +123,10 @@ fermeture (ou de suspension) la réalité a choisi.
    (NuFIT) : deux démos impuissantes (nul spectral complet σ = 2,05 ;
    nul de forme σ = 2,92 < 3,0) — un seul rapport mesuré n'a pas la
    hauteur ; la carte dort sans avoir été gelée
+   MCS-27 : CS− — la mesure jointe : vecteur de forme (Koide, rapport)
+   × porteur à son vide, nul conjoint de forme (Σ = +1,00) : la forme
+   du porteur (K = 5−2√5 ; R = φ²) n'est pas celle des leptons —
+   mesuré avec la puissance requise (démo σ = 7,32)
 ```
 
 ## 2. Les cinq modes de fermeture (la lecture sémantique)
@@ -193,6 +198,17 @@ coïncidence stable — elle ne généralise pas hors de ses propres témoins.
   la vérification d'empreintes ; le lexique gelé (section 2) et
   l'exécution portent le canal leptonique, et le diagnostic de la table
   complète est publié au runner au-delà de la liste de la section 8.
+- **MCS-27** (la mesure jointe : vecteur de forme (Koide, rapport) ×
+  porteur à son vide, nul conjoint de forme — la frontière documentée de
+  MCS-26) : Σ = +1,00. La forme du porteur à son vide (K = 5−2√5 =
+  0,5279 ; R = φ² = 2,618 — formes closes) n'est pas celle du canal
+  leptonique (K = 0,6666645 ; R = 16,82) : écart blanchi 6,27, ordinaire
+  dans le nul conjoint (z canonique = +1,10 ; le vide déplacé à
+  Λ = 2,5 approche à +3,26 sans franchir) — la question de la forme est
+  close avec la puissance requise (démo : σ = 7,32 ; contrôles 3,2 u et
+  5,5 u). Défaut de la démo publié : le nul de l'amputé ne porte que 2
+  vecteurs distincts (covariance de rang 1) — métrique de blanchiment
+  fixée à la covariance du nul canonique (déclaré).
 
 *Signification* : la décroissance de la dérivabilité avec la complexité est
 **visible mais pas démontrable** à cette taille d'échantillon. La conjecture
@@ -390,17 +406,18 @@ relevés récents.
 
 ## 4. Ce que la carte dit du monde
 
-1. **Sur 26 cartes numérotées + 3 refontes** : 4 inversions (CSi — dont le
+1. **Sur 27 cartes numérotées + 3 refontes** : 4 inversions (CSi — dont le
    tarif, mort de sa convention),
-   4 fermetures (CS− — dont le siège du vide : l'ancre n'est pas dans le
-   canal leptonique), 3 suspensions résolues (CS0 → inappréciable / CSp /
-   CSp), 5 cartes endormies (CSp — dont S₈, dépendante de l'édition),
+   5 fermetures (CS− — dont la mesure jointe : la forme du porteur
+   n'est pas celle des leptons), 3 suspensions résolues (CS0 →
+   inappréciable / CSp / CSp), 5 cartes endormies (CSp — dont S₈,
+   dépendante de l'édition),
    6 candidates non scellées (CKM, KSS, w exact, quasi-unification, tarif
    des horizons, siège neutrino),
    **6 confirmations (CS+)** : deux étalons
    (Benford, Zipf), une régularité contemporaine avec caveat mesuré (RAR),
    une exception rationnelle inexpliquée (Koide), un regroupement de
-   population avec nuance mesurée (résonances orbitales), une tension
+   population avec nuance mesuré (résonances orbitales), une tension
    cosmologique robuste (H0).
 2. **Les correspondances numériques précises entre domaines éloignés meurent
    toutes au même endroit** : la déformation qui change l'échelle, le pas ou
@@ -433,7 +450,9 @@ coïncidence meurt de sa convention de cadran), MCS-25 (siège du vide ×
 canal leptonique — CS− : l'ancre mesurée n'est pas dans le canal ; le
 nul réel est devenu spectral), MCS-26 (siège du vide × canal neutrinos —
 non scellée, règle 1.2 : un seul rapport mesuré n'a pas la hauteur, à
-deux pas mesurés). Toute carte future ajoutera un point à cette carte,
+deux pas mesurés), MCS-27 (mesure jointe de forme — CS− : la forme du
+porteur n'est pas celle des leptons, mesurée avec la puissance
+requise). Toute carte future ajoutera un point à cette carte,
 jamais ne révisera un point existant — les fermetures sont définitives,
 les suspensions ont une seule refonte, et aucune carte ne se scelle sans
 puissance démontrée.*
