@@ -13,8 +13,9 @@ jalon 7 : MCS-20 (constance w = −1 × Pantheon+, NON SCELLÉE) + MCS-21
 (tension S₈ × CMB/lentilles, CSp) + MCS-22 (quasi-unification SM, NON
 SCELLÉE) + MCS-23 (tarif Bekenstein-Hawking × contenu spectral du corpus,
 NON SCELLÉE) + MCS-24 (tarif × porteur réparé, nul réel, CSi) +
-verdicts du corpus mobilisés par les cartes (mvcg, M1/M1b, bifurcations,
-EEG P44/P47/P51).
+jalon 8 : MCS-25 (siège du vide × canal leptonique, nul réel spectral,
+CS−) + verdicts du corpus mobilisés par les cartes (mvcg, M1/M1b,
+bifurcations, EEG P44/P47/P51).
 
 Cette carte ne classe pas les verdicts par numéro mais par **ce qu'ils
 signifient** : quel type de correspondance était testé, et quel mode de
@@ -111,6 +112,11 @@ fermeture (ou de suspension) la réalité a choisi.
    la proximité au tarif est réelle au cadran non réduit (z = 10,9)
    et s'inverse au cadran réduit (−10,7) — la coïncidence mesure la
    convention de coupure, pas le contenu ; la question est close
+   MCS-25 : CS− — siège du vide × canal leptonique, nul réel spectral
+   (Σ = −0,26) : le porteur à son vide (r = φ²) siège à 0,81 dex de
+   μ/e — ordinaire parmi les triplets nus ; l'ancre n'est pas dans le
+   canal ; démo v1 impuissante publiée (plafond 1,46 σ sur la table
+   complète), correction déclarée unique
 ```
 
 ## 2. Les cinq modes de fermeture (la lecture sémantique)
@@ -164,6 +170,21 @@ coïncidence stable — elle ne généralise pas hors de ses propres témoins.
   sous g1–g5 (2,10 ≤ z ≤ 2,37), mais le seuil 3,1 n'est jamais approché, et la
   carte incluait dans Σ un tirage du nul (g6 — défaut de conception publié).
   Point de méthode confirmé : l'axe conventionnel est libre (|ρ_conv| = 0,135).
+- **MCS-25** (siège du vide × canal leptonique, nul réel spectral — jalon 8) :
+  Σ = −0,26. Le rapport spectral du porteur à son vide (r = φ², forme close
+  du spectre mesuré T7) siège à 0,81 dex de μ/e — mieux que le nul médian
+  dans plusieurs déformations (+0,98 canonique ; +2,31 au vide déplacé ;
+  +2,26 au poids uniforme) mais le point Λ = 6 de la branche casse le
+  minimum : la tendance ne survit pas le groupe. Première réponse mesurée à
+  la frontière de MCS-24 : la seconde ancre n'est pas dans le canal des
+  leptons chargés. Le nul réel est devenu spectral (matrices énumérées,
+  régression tuante aux comptes de MCS-24) ; la démo v1 (table complète)
+  impuissante est publiée (plafond 1,46 σ), la correction pré-gel unique
+  (règle de forme spectrale + contrôles d'instrument) est déclarée.
+  Défaut de rédaction publié : l'énoncé (section 1 de la carte scellée)
+  porte la formulation d'avant correction (« table des fermions ») —
+  modification perdue par écriture parallèle, attrapée à la relecture
+  post-gel ; le lexique gelé et l'exécution portent le canal leptonique.
 
 *Signification* : la décroissance de la dérivabilité avec la complexité est
 **visible mais pas démontrable** à cette taille d'échantillon. La conjecture
@@ -350,9 +371,10 @@ relevés récents.
 
 ## 4. Ce que la carte dit du monde
 
-1. **Sur 24 cartes numérotées + 3 refontes** : 4 inversions (CSi — dont le
+1. **Sur 25 cartes numérotées + 3 refontes** : 4 inversions (CSi — dont le
    tarif, mort de sa convention),
-   3 fermetures (CS−), 3 suspensions résolues (CS0 → inappréciable / CSp /
+   4 fermetures (CS− — dont le siège du vide : l'ancre n'est pas dans le
+   canal leptonique), 3 suspensions résolues (CS0 → inappréciable / CSp /
    CSp), 5 cartes endormies (CSp — dont S₈, dépendante de l'édition),
    5 candidates non scellées (CKM, KSS, w exact, quasi-unification, tarif
    des horizons),
@@ -388,7 +410,9 @@ machine juge sa maison), MCS-17 (tension H0), MCS-18 et MCS-19 (non
 scellées — règle 1.2), MCS-20 / MCS-21 / MCS-22 (jalon 7 — secteur sombre
 et unification), MCS-23 (tarif des horizons × contenu spectral du corpus —
 non scellée, règle 1.2), MCS-24 (tarif × porteur réparé — CSi : la
-coïncidence meurt de sa convention de cadran). Toute carte future ajoutera un point à cette carte,
+coïncidence meurt de sa convention de cadran), MCS-25 (siège du vide ×
+canal leptonique — CS− : l'ancre mesurée n'est pas dans le canal ; le
+nul réel est devenu spectral). Toute carte future ajoutera un point à cette carte,
 jamais ne révisera un point existant — les fermetures sont définitives,
 les suspensions ont une seule refonte, et aucune carte ne se scelle sans
 puissance démontrée.*
