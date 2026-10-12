@@ -1,0 +1,15 @@
+{
+  "acte": "GEL DE LA CARTE MCS-27 (jalon 3 v2)",
+  "horodatage_utc": "2026-10-12T13:05:28Z",
+  "convention": "sha256 sur le contenu PRE-GEL (bloc a null) ; bloc nul conserve ici pour verification octet par octet",
+  "genese_journal": "GENESIS-MCS-V2-GEL-MCS27",
+  "chainon_precedent_gel_cartes": "012b5416595272ded39489a97e4366633fa67e44ccc9caefe10684ea4e506080",
+  "carte": "cartes/v2/MCS-27-mesure-jointe-forme.md",
+  "sha256_pre_gel": "61cedbfeef7b8a358749aabc7e494d84a8cb8cbf7314016f8ad28b7735b77974",
+  "bloc_nul_original": "```\nSHA256_CARTE : null\nHORODATAGE   : null\n```",
+  "demonstration_puissance": {
+    "validation/demonstration_puissance_mcs27.py": "27e2125d8d0a5ae25b2209b29567c3f55f6021c9ba4f96de8009992ad71b007d",
+    "validation/journal_puissance_mcs27.jsonl": "9714a4c757d4cafe22a7db9c49c61ca07d648f53ec7dd5213f237ebaa606a321"
+  },
+  "tete_journal": "f3e61dee869a236ffcdc8382f5cd4bfe1aabbcf40ed81de89344ba1baebf77f6"
+}
