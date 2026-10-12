@@ -11,7 +11,8 @@ corpus, CS0→CSp par sa refonte) + MCS-17 (tension H0 × Pantheon+, CS+) +
 MCS-18 (CKM, NON SCELLÉE) + MCS-19 (KSS, NON SCELLÉE) +
 jalon 7 : MCS-20 (constance w = −1 × Pantheon+, NON SCELLÉE) + MCS-21
 (tension S₈ × CMB/lentilles, CSp) + MCS-22 (quasi-unification SM, NON
-SCELLÉE) +
+SCELLÉE) + MCS-23 (tarif Bekenstein-Hawking × contenu spectral du corpus,
+NON SCELLÉE) +
 verdicts du corpus mobilisés par les cartes (mvcg, M1/M1b, bifurcations,
 EEG P44/P47/P51).
 
@@ -103,6 +104,9 @@ fermeture (ou de suspension) la réalité a choisi.
    tension dépend de l'édition ; la carte dort
    MCS-22 : NON SCELLÉE — quasi-unification SM : même la mesure continue
    (gap au croisement) est impuissante aux étendues honnêtes
+   MCS-23 : NON SCELLÉE — tarif des horizons × contenu spectral du
+   corpus : les contrôles voient (6,7 u) mais la fenêtre combinatoire
+   auditée contient le tarif par chance (plafond 2,71 σ)
 ```
 
 ## 2. Les cinq modes de fermeture (la lecture sémantique)
@@ -262,9 +266,15 @@ robustesse, et la question physique reste hors de sa portée (déclaré).
   même une mesure continue est impuissante — des couplages libres aux
   étendues déclarées atteignent des gaps aussi petits (σ = 1,48 ;
   sabotages < 1 u) ; la carte dort sans avoir été gelée.
+- **MCS-23** (tarif de Bekenstein-Hawking η = 1/(4ℏG) × contenu spectral
+  déclaré du corpus — programme « qui encaisse ») : nul combinatoire exact
+  (énumération de la fenêtre Krajewski datée, erratum du dépôt déclaré) ;
+  les contrôles voient (c1 = 6,7 u) mais la vérité plantée au tarif
+  plafonne à σ = 2,71 < 3,0 — la fenêtre contient le tarif par chance
+  combinatoire (p = 1,6 % au mieux) ; la carte dort sans avoir été gelée.
 
 *Signification* : la règle 1.2 (puissance démontrée avant gel) a fermé
-quatre cartes de plus sans qu'aucune mesure réelle ne soit produite — dont
+cinq cartes de plus sans qu'aucune mesure réelle ne soit produite — dont
 trois sur les questions d'unification et de paramètre exact (CKM, KSS,
 couplages SM, w = −1) : c'est la discipline
 qui tient : pas de verdict sans pouvoir démontré, jamais.
@@ -326,10 +336,11 @@ relevés récents.
 
 ## 4. Ce que la carte dit du monde
 
-1. **Sur 22 cartes numérotées + 3 refontes** : 3 inversions (CSi),
+1. **Sur 23 cartes numérotées + 3 refontes** : 3 inversions (CSi),
    3 fermetures (CS−), 3 suspensions résolues (CS0 → inappréciable / CSp /
    CSp), 5 cartes endormies (CSp — dont S₈, dépendante de l'édition),
-   4 candidates non scellées (CKM, KSS, w exact, quasi-unification),
+   5 candidates non scellées (CKM, KSS, w exact, quasi-unification, tarif
+   des horizons),
    **6 confirmations (CS+)** : deux étalons
    (Benford, Zipf), une régularité contemporaine avec caveat mesuré (RAR),
    une exception rationnelle inexpliquée (Koide), un regroupement de
@@ -360,7 +371,8 @@ relevés récents.
 (registre), les refontes uniques MCS-03b / MCS-05b / MCS-16b, MCS-16 (la
 machine juge sa maison), MCS-17 (tension H0), MCS-18 et MCS-19 (non
 scellées — règle 1.2), MCS-20 / MCS-21 / MCS-22 (jalon 7 — secteur sombre
-et unification). Toute carte future ajoutera un point à cette carte,
+et unification), MCS-23 (tarif des horizons × contenu spectral du corpus —
+non scellée, règle 1.2). Toute carte future ajoutera un point à cette carte,
 jamais ne révisera un point existant — les fermetures sont définitives,
 les suspensions ont une seule refonte, et aucune carte ne se scelle sans
 puissance démontrée.*
