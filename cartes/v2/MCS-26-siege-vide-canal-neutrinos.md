@@ -4,14 +4,14 @@
 démo v1 (nul réel spectral complet de la fenêtre) est impuissante —
 σ = 2,05 < 3,0, c2 = 1,18 u : à un seul rapport mesuré, le nul complet
 a toujours une queue de sièges algébriques chanceux (leçon MCS-23) —
-elle est publiée (validation/journal_puissance_mcs26_v1.jsonl et son
-journal). La correction est le **nul de forme** : la correspondance est
-déclarée par la forme spectrale mesurée du porteur (T13 : un mode nul
-protégé + deux modes massifs, taille 5, rang 2, deux valeurs
-singulières distinctes) — le nul pertinent est l'ensemble des triplets
-de la fenêtre ayant exactement cette forme (déclaré, mesuré à la démo
-v2) ; la déformation g2 passe à la forme de l'amputé (taille 4, rang 2
-— T13) et g6 au rang ≤ 2 (dépendance à la définition de la forme).
+elle est publiée (validation/journal_puissance_mcs26.jsonl de la v1).
+La correction est le **nul de forme** : la correspondance est déclarée
+par la forme spectrale mesurée du porteur (T13 : un mode nul protégé +
+deux modes massifs, taille 5, rang 2, deux valeurs singulières
+distinctes) — le nul pertinent est l'ensemble des triplets de la
+fenêtre ayant exactement cette forme (déclaré, mesuré à la démo v2) ;
+la déformation g2 passe à la forme de l'amputé (taille 4, rang 2 —
+T13) et g6 au rang ≤ 2 (dépendance à la définition de la forme).
 
 **Statut** : CANDIDAT — Jalon 1 v2 (rédaction, aucun calcul de mesure)
 **Moteur** : v2.0 (manifeste MANIFESTE-MCS-v2.0.md — puissance démontrée avant gel)
