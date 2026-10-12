@@ -1,0 +1,126 @@
+{
+  "carte": "MCS-25",
+  "empreinte_carte_pre_gel": "e1e4e0728fa3b2849e25f906c8bf1fd0c1d68f9a417bb71a96a91be5bf40b546",
+  "constantes_gelees": {
+    "canal": [
+      "e",
+      "mu",
+      "tau"
+    ],
+    "R_VIDE": 2.618033988749895,
+    "R_G3": 5.0,
+    "R_G4": 1.4294744677091857,
+    "fenetre": [
+      2,
+      6
+    ],
+    "fenetre_g2": [
+      2,
+      7
+    ],
+    "empreintes_tables": {
+      "mcs04_mass_width_2024.mcd": "12136f946df7860ef81f4e37d8314fe6ce3ae0b6bb77266994e56e4cf61e20d9",
+      "mcs04_mass_width_2022.mcd": "f99e43f1fc2855501fc06ff105eb0f60a6e8300409750ab9c455ebe2a5847435"
+    }
+  },
+  "empreinte_donnees": "bf4f731d1fd127fe43919a690b4a46472643f57c48e8c0f3ed02c76da68ca931",
+  "m_par_config": {
+    "g0": -0.8077911100240643,
+    "g1": -0.8077740011832286,
+    "g2": -0.8077911100240643,
+    "g3": -0.5267963861880031,
+    "g4": -1.0705899878303908,
+    "g5": -0.8443285789225804,
+    "g6": -0.8077911100240643
+  },
+  "z_par_g": {
+    "g0_canonique_HORS_SIGMA": 0.9820732439677026,
+    "g1_edition_2022": 0.9820732439677022,
+    "g2_fenetre_7": 0.40598999906849,
+    "g3_vide_deplace_rho1.5": 2.3095307589488083,
+    "g4_point_branche_L6": -0.2594246052094904,
+    "g5_metrique_relative": 0.7086435417276143,
+    "g6_poids_uniforme_taille": 2.260115188921083
+  },
+  "controles": {
+    "c1": 2.895344055751195,
+    "c2": 4.368581231616561,
+    "reference_c1_gap": 847.9438928939842
+  },
+  "diagnostics": {
+    "siege_porteur_dex": 0.8077911100240643,
+    "rapport_le_plus_proche_canal": 16.81769184497825,
+    "siege_porteur_table_complete_dex": 0.04615773555776151,
+    "rapport_le_plus_proche_table_complete": 2.3540600924065664,
+    "rangs_dans_le_nul_reel": {
+      "g0": 0.19908791967197587
+    },
+    "comptes_nul_par_taille": {
+      "2": 4,
+      "3": 64,
+      "4": 880,
+      "5": 13696,
+      "6": 280944,
+      "7": 8384512
+    },
+    "n2_permutations_canal_m": [
+      -0.807791110024
+    ],
+    "nuls_par_config": {
+      "g1": [
+        -1.0156581683683585,
+        0.2116788828756307
+      ],
+      "g5": [
+        -0.8899712936358259,
+        0.06440856654386828
+      ],
+      "g6": [
+        -1.1548332103872196,
+        0.1535506252355322
+      ],
+      "g2": [
+        -0.8993324056882251,
+        0.22547672571786162
+      ]
+    },
+    "nul_canonique": [
+      -1.0156752772091944,
+      0.21167888287563072
+    ],
+    "note": "le canal leptonique est la correction declaree ; la table complete est publiee en diagnostic (demo v1 impuissante — plafond mesure 1,46)"
+  },
+  "verdict_moteur_seuil_3.0": {
+    "verdict": "CS-",
+    "sigma": -0.259425,
+    "seuil": 3.0,
+    "motif": "artefact probable ; publication B3-FAIL",
+    "z_par_g": {
+      "g0_canonique_HORS_SIGMA": 0.982073,
+      "g1_edition_2022": 0.982073,
+      "g2_fenetre_7": 0.40599,
+      "g3_vide_deplace_rho1.5": 2.309531,
+      "g4_point_branche_L6": -0.259425,
+      "g5_metrique_relative": 0.708644,
+      "g6_poids_uniforme_taille": 2.260115
+    },
+    "controles": {
+      "c1": 2.895344,
+      "c2": 4.368581
+    },
+    "puissances_controles": {
+      "c1": 2.895344,
+      "c2": 4.368581
+    },
+    "directions_controles": {
+      "c1": "conforme",
+      "c2": "conforme"
+    }
+  },
+  "verdict_carte_seuil_3.0": "CS-",
+  "decisions_execution": [
+    "le nul reel spectral est enumere exhaustivement (chemin vectorise declare) — jamais tire",
+    "controles d'instrument sur references (correction declaree) : c1 = siege parfait deplace au plus grand intervalle ; c2 = tirage du nul par echantillonnage inverse (convention MCS-24)",
+    "N2 est exhaustif (6 permutations du canal — declare)"
+  ]
+}
