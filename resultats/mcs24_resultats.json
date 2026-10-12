@@ -1,0 +1,90 @@
+{
+  "carte": "MCS-24",
+  "empreinte_carte_pre_gel": "5ab3ca699aa49ca21047726b656a47e1c586d2c94c48c48eb61de194085bb1db",
+  "constantes_gelees": {
+    "G_2022": 6.6743e-11,
+    "G_2018": 6.67408e-11,
+    "M_P": 1.2209e+19,
+    "f2": 1.0,
+    "N_REQ_BASE": 4.71238898038469,
+    "contenu_porteur": 5,
+    "contenu_C4": 4
+  },
+  "empreinte_donnees": "7ba0ff71bf5cf971954c07a07aa4242de8ce1fb97858b3cbef00b31a584150f3",
+  "m_par_config": {
+    "g0": -0.02572887258620369,
+    "g1": -1.3745109870998737,
+    "g2": -0.025714557023412205,
+    "g3": -0.02572887258620369,
+    "g4": -0.07118114042185268,
+    "g5": -0.07118114042185268,
+    "g6": -0.02572887258620369
+  },
+  "z_par_g": {
+    "g0_canonique_HORS_SIGMA": 10.895120224820266,
+    "g1_coupure_reduite": -10.711065799162943,
+    "g2_CODATA_2018": 10.895137798529262,
+    "g3_fenetre_8": 22.593064147312187,
+    "g4_contenu_C4": 7.449493252802233,
+    "g5_porteur_ampute_noeud_C": 7.449493252802233,
+    "g6_nul_uniforme_par_taille": 1.1711946709477994
+  },
+  "controles": {
+    "c1": 68.4610772028032,
+    "c2": 11.077614497071243
+  },
+  "diagnostics": {
+    "delta_canonique_dex": 0.02572887258620369,
+    "N_req_canonique": 4.71238898038469,
+    "comptes_nul_par_taille": {
+      "2": 4,
+      "3": 64,
+      "4": 880,
+      "5": 13696,
+      "6": 280944,
+      "7": 8384512
+    },
+    "rangs_dans_le_nul_reel": {
+      "g0": 0.001578,
+      "g1": 0.999891,
+      "g2": 0.001578,
+      "g3": 3.4e-05,
+      "g4": 0.001679,
+      "g5": 0.001679,
+      "g6": 0.166667
+    },
+    "note": "la proximite du porteur vit au cadran non reduit ; g1 mesure la dependance a la convention de Planck"
+  },
+  "verdict_moteur_seuil_3.0": {
+    "verdict": "CSi",
+    "sigma": -10.711066,
+    "seuil": 3.0,
+    "motif": "inversion stable (Sigma <= -2), publication prioritaire",
+    "z_par_g": {
+      "g0_canonique_HORS_SIGMA": 10.89512,
+      "g1_coupure_reduite": -10.711066,
+      "g2_CODATA_2018": 10.895138,
+      "g3_fenetre_8": 22.593064,
+      "g4_contenu_C4": 7.449493,
+      "g5_porteur_ampute_noeud_C": 7.449493,
+      "g6_nul_uniforme_par_taille": 1.171195
+    },
+    "controles": {
+      "c1": 68.461077,
+      "c2": 11.077614
+    },
+    "puissances_controles": {
+      "c1": 68.461077,
+      "c2": 11.077614
+    },
+    "directions_controles": {
+      "c1": "conforme",
+      "c2": "conforme"
+    }
+  },
+  "verdict_carte_seuil_3.0": "CSi",
+  "decisions_execution": [
+    "le nul reel est calcule (machine des orbites, filiation T1/T5 declaree) — jamais tire",
+    "g5 : le porteur ampute de son noeud C a N_F = 4 (declare)"
+  ]
+}
