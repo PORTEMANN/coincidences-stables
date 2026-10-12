@@ -1,0 +1,39 @@
+{
+  "provenance": "nu-fit.org — tables des paramètres NuFIT (analyse globale trois saveurs), acquisition déclarée du 12/10/2026",
+  "fichiers_sha256": {
+    "v52": "884be2a5ef1cc8d3eebf7e5b8e94e46f4c43a2b59a0a10ee34fbf980e92e33cd",
+    "v53": "5e7dc1b1a8a3f0d91e4a76eb3e65cf13a3f9d7bb4a1f45e8d0c53e3a0d52f0e1",
+    "v60": "c8c5b0a0f74a17f0b70f4e12bc88e40e7ce9bb7d0e9a7e40b0fe74a6ba2a5c6f"
+  },
+  "splittings": {
+    "v60_IC19_sans_SKatm_NO": {
+      "dm21_e-5": 7.49,
+      "dm21_sigma": 0.19,
+      "dm31_e-3": 2.534,
+      "dm31_sigma_plus": 0.025,
+      "dm31_sigma_moins": 0.023
+    },
+    "v60_IC24_avec_SKatm_NO": {
+      "dm21_e-5": 7.49,
+      "dm21_sigma": 0.19,
+      "dm31_e-3": 2.513,
+      "dm31_sigma_plus": 0.021,
+      "dm31_sigma_moins": 0.019
+    },
+    "v53_sans_SKatm_NO": {
+      "dm21_e-5": 7.41,
+      "dm21_sigma": 0.205,
+      "dm31_e-3": 2.511,
+      "dm31_sigma_plus": 0.027,
+      "dm31_sigma_moins": 0.027
+    },
+    "v52_sans_SKatm_NO": {
+      "dm21_e-5": 7.41,
+      "dm21_sigma": 0.205,
+      "dm31_e-3": 2.511,
+      "dm31_sigma_plus": 0.028,
+      "dm31_sigma_moins": 0.027
+    }
+  },
+  "note": "variante déclarée de la carte MCS-26 : « without SK-atm », ordre normal ; R_ν = Δm²_31/Δm²_21"
+}
